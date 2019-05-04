@@ -5,21 +5,10 @@
 
 A collection of shiny AEC Startups
 
-## Build Setup
+http://www.aecstartups.com/
 
-``` bash
-# install dependencies
-$ yarn install
+# New Entries
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
+[Create an issue here](https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=) or Open a PR with edits to [data.yaml](https://github.com/gtalarico/aec-startups/blob/master/data.yaml)
 
 License MIT
