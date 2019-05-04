@@ -33,7 +33,11 @@ export default {
   },
   computed: {
     tags() {
-      return Array.from(new Set(this.startups.map(s => s.tags).flat()))
+      return Array.from(
+        new Set(
+          this.startups.map(s => s.tags).reduce((a, b) => [...a, ...b], [])
+        )
+      )
     }
   },
   methods: {
