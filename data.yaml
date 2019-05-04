@@ -62,8 +62,8 @@ startups:
 
 
 - title: Konstru
-  description: Version control for Structures
-  website: Version control for Structures
+  description: Faster Updates, Easier Collaboration, & Reliable Change Management for BIM
+  website: https://konstru.com
   image: logos/konstru.png
   crunchbase: https://www.crunchbase.com/organization/konstru
   industries:
@@ -122,6 +122,7 @@ startups:
   - architecture
   tags:
   - design automation
+  - desktop-app
 
 - title: Topos
   description: Transforming the way we understand cities
@@ -131,7 +132,7 @@ startups:
   industries:
   - real estate
   tags:
-  - ai
+  - spatial data
 
 - title: UpCodes
   description: UpCodes helps the AEC industry deliver code compliant buildings
