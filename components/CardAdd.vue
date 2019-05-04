@@ -4,7 +4,7 @@
     <div class="card-body">
       <p class="card-text">
         <a
-          href="https://github.com/gtalarico/aec-startups/issues/new"
+          href="https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=Add%20[Startup%20Name]"
           target="blank"
         >
           <img src="~/assets/imgs/plus.png" alt="plus-sign" />
