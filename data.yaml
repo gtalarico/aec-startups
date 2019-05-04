@@ -71,6 +71,17 @@ startups:
   tags:
   - web-app
 
+- title: Ladybug Tools
+  description: Making environmental design knowledge and tools freely accessible to every person, project and design process
+  website: https://www.ladybug.tools/
+  image: logos/ladybug.png
+  crunchbase:
+  industries:
+  - architecture
+  tags:
+  - analysis
+  - web-app
+
 - title: Layer
   description: One platform for collecting, managing, and sharing building data
   website: https://layer.team
