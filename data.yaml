@@ -1,0 +1,145 @@
+startups:
+- title: Archilyse
+  description: Holistic numeric architecture analysis as an easy to use API solution
+  website: https://www.archilyse.com/
+  image: logos/archilyse.png
+  crunchbase: https://www.crunchbase.com/organization/archilyse
+  industries:
+  - architecture
+  tags:
+  - analysis
+
+- title: Bricsys
+  description: CAD/Bim Platform
+  website: https://www.bricsys.com
+  image: logos/bricsys.png
+  crunchbase: https://www.crunchbase.com/organization/bricsys
+  industries:
+  - architecture
+  tags:
+  - desktop-app
+
+- title: Bright Machines
+  description: Software-Defined Manufacturing
+  website: https://www.brightmachines.com/
+  image: logos/bright-machines.png
+  crunchbase:
+  industries:
+  - construction
+  tags:
+  - manufacturing
+
+- title: Helix RE
+  description: Data solution for large-scale property owners and managers
+  website: https://helix.re/
+  image: logos/helix.png
+  crunchbase:
+  industries:
+  - real estate
+  tags:
+  - point-cloud
+
+- title: Join
+  description: Preconstruction Intelligence
+  website: https://join.build
+  image: logos/join.png
+  crunchbase:
+  industries:
+  - contruction
+  - architecture
+  tags:
+  - cost-estimation
+
+- title: Katerra
+  description: Katerra is a technology company optimizing the way we develop, design, and construct buildings
+  website: https://www.katerra.com
+  image: logos/katerra.png
+  crunchbase:
+  industries:
+  - construction
+  tags:
+  - manufacturing
+
+
+- title: Konstru
+  description: Version control for Structures
+  website: Version control for Structures
+  image: logos/konstru.png
+  crunchbase: https://www.crunchbase.com/organization/konstru
+  industries:
+  - engineering
+  tags:
+  - web-app
+
+- title: Layer
+  description: One platform for collecting, managing, and sharing building data
+  website: https://layer.team
+  image: logos/layer.png
+  crunchbase:
+  industries:
+  - architecture
+  tags:
+  - data-management
+  - web-app
+
+- title: Leko Labs
+  description: Rethinking Building
+  website: https://www.lekolabs.com/
+  image: logos/leko.png
+  crunchbase: https://www.crunchbase.com/organization/leko-labs
+  industries:
+  - construction
+  tags:
+  - pre-fabrication
+
+- title: Monograph
+  description: Project Management Softwar For Architects & Engineers
+  website: https://monograph.io/
+  image: logos/monograph.png
+  crunchbase:
+  industries:
+  - architecture
+  tags:
+  - project-management
+  - web-app
+
+- title: Outer Labs
+  description: Connect your digital and physical workflow
+  website: http://www.outerlabs.io
+  image: logos/outerlabs.png
+  crunchbase:
+  industries:
+  - architecture
+  tags:
+  - data-management
+
+- title: Testfit.io
+  description: Rapid Test Fit Software
+  website: https://testfit.io/
+  image: logos/testfitio.png
+  crunchbase:
+  industries:
+  - architecture
+  tags:
+  - design automation
+
+- title: Topos
+  description: Transforming the way we understand cities
+  website: https://topos.com/
+  image: logos/topos.png
+  crunchbase:
+  industries:
+  - real estate
+  tags:
+  - ai
+
+- title: UpCodes
+  description: UpCodes helps the AEC industry deliver code compliant buildings
+  website: https://up.codes
+  image: logos/upcodes.png
+  crunchbase: https://www.crunchbase.com/organization/upcodes
+  industries:
+  - architecture
+  tags:
+  - documentation
+  - web-app
