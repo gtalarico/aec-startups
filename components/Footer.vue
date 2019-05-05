@@ -4,7 +4,6 @@
     <p class="text-muted font-italic">
       AecStartups.com is an open-source list of Shiny Startups in the AEC Space.
       <br />
-      It
     </p>
     <p class="text-secondary muted">
       <a class="text-muted" href="https://twitter.com/gtalarico"
