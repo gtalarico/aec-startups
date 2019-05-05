@@ -9,6 +9,8 @@ http://www.aecstartups.com/
 
 # New Entries
 
-[Create an issue here](https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=) or Open a PR with edits to [data.yaml](https://github.com/gtalarico/aec-startups/blob/master/data.yaml)
+[Create an issue here](https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=) or submit a  PR.
+
+The website is auto-generated base on the entries in [data.yaml](https://github.com/gtalarico/aec-startups/blob/master/data.yaml).
 
 License MIT
