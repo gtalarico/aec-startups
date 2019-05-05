@@ -5,7 +5,7 @@
       Aec Startups
     </h2>
     <p class="lead text-secondary">
-      ✨ A Collection of Shiny Startups in the AEC Space ✨
+      ✨ Just a List of Shiny Startups in the AEC Space ✨
     </p>
 
     <div class="mb-3 mt-3 tags-list">
