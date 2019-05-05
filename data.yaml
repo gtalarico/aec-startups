@@ -65,7 +65,7 @@ startups:
   industries:
   - real estate
   tags:
-  - point-cloud
+  - point cloud
   - flux spin-off
 
 - title: Join
@@ -78,7 +78,7 @@ startups:
   - contruction
   - architecture
   tags:
-  - cost-estimation
+  - cost estimation
   - flux spin-off
 
 - title: Katerra
@@ -102,7 +102,7 @@ startups:
   industries:
   - engineering
   tags:
-  - web-app
+  - web app
 
 - title: Ladybug Tools
   description: Making environmental design knowledge and tools freely accessible to every person, project and design process
@@ -114,7 +114,7 @@ startups:
   - architecture
   tags:
   - analysis
-  - web-app
+  - web app
 
 - title: Layer
   description: One platform for collecting, managing, and sharing building data
@@ -125,8 +125,8 @@ startups:
   industries:
   - architecture
   tags:
-  - data-management
-  - web-app
+  - data management
+  - web app
 
 - title: Leko Labs
   description: Rethinking Building
@@ -148,20 +148,19 @@ startups:
   industries:
   - architecture
   tags:
-  - web-app
-
+  - web app
 
 - title: Monograph
   description: Project Management Softwar For Architects & Engineers
-  website: https://www.crunchbase.com/organization/monograph
+  website: https://monograph.io
   image: logos/monograph.png
-  crunchbase:
+  crunchbase: https://www.crunchbase.com/organization/monograph
   funding: MIT Grant
   industries:
   - architecture
   tags:
-  - project-management
-  - web-app
+  - project management
+  - web app
 
 - title: Outer Labs
   description: Connect your digital and physical workflow
@@ -172,7 +171,7 @@ startups:
   industries:
   - architecture
   tags:
-  - data-management
+  - data management
   - flux spin-off
 
 - title: PlanGrid
@@ -184,7 +183,7 @@ startups:
   industries:
   - construction
   tags:
-  - construction-management
+  - construction management
 
 - title: Testfit.io
   description: Rapid Test Fit Software
@@ -196,7 +195,7 @@ startups:
   - architecture
   tags:
   - design automation
-  - desktop-app
+  - desktop app
 
 - title: Topos
   description: opos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities
@@ -219,4 +218,4 @@ startups:
   - architecture
   tags:
   - documentation
-  - web-app
+  - web app
