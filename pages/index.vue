@@ -27,7 +27,10 @@ export default {
   computed: {
     filteredStartups() {
       if (!this.selectedTag) return this.startups
-      else return this.startups.filter(f => f.tags.includes(this.selectedTag))
+      else
+        return this.startups
+          .filter(f => f.tags.includes(this.selectedTag))
+          .sort((a, b) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0))
     }
   },
   methods: {

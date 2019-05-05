@@ -46,7 +46,10 @@ export default {
     tags() {
       return Array.from(
         new Set(
-          this.startups.map(s => s.tags).reduce((a, b) => [...a, ...b], [])
+          this.startups
+            .map(s => s.tags)
+            .reduce((a, b) => [...a, ...b], [])
+            .sort()
         )
       )
     }
