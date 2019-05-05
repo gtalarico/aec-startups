@@ -36,8 +36,8 @@ startups:
   description: Empower your workforce to solve meaningul problems with Professional Grade AR™
   website: https://www.crunchbase.com/organization/daqri
   image: logos/daqri.png
-  crunchbase:
-  funding:
+  crunchbase: https://www.crunchbase.com/organization/daqri
+  funding: Private Equity
   industries:
   - construction
   tags:

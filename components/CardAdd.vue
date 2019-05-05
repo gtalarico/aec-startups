@@ -10,6 +10,13 @@
           <img src="~/assets/imgs/plus.png" alt="plus-sign" />
         </a>
       </p>
+      <p>
+        <a
+          href="https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=Add%20[Startup%20Name]"
+          target="blank"
+          >Submit Entry</a
+        >
+      </p>
     </div>
   </div>
 </template>
@@ -27,11 +34,13 @@ export default {
 }
 .card-body {
   img {
+    width: 60px;
     cursor: pointer;
     transition: all 0.1s ease-in;
     margin-top: -64px;
     &:hover {
       transform: scale(1.025, 1.025);
+      margin-top: -70px;
     }
   }
 }

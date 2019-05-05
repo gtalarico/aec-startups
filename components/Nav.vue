@@ -1,11 +1,14 @@
 <template>
   <div class="container-fluid py-4 text-center">
-    <h1 class="text-center">
-      AEC Startups
-    </h1>
-    <p class="lead text-secondary">A collection of shiny AEC Startups</p>
+    <!-- <div class="bar"></div> -->
+    <h2 class="text-center">
+      Aec Startups
+    </h2>
+    <p class="lead text-secondary">
+      ✨ A Collection of Shiny Startups in the AEC Space ✨
+    </p>
 
-    <div>
+    <div class="mb-3 mt-3 tags-list">
       <b-badge
         v-for="(tag, i) in tags"
         :key="i"
@@ -14,6 +17,14 @@
         @click="selectTag(tag)"
       >
         {{ tag }}
+      </b-badge>
+      <b-badge
+        v-show="selectedTag !== null"
+        variant="danger"
+        href="#"
+        @click="clearSelectedTag()"
+      >
+        Clear Filter
       </b-badge>
     </div>
   </div>
@@ -48,6 +59,10 @@ export default {
         this.selectedTag = tag
       }
       this.$emit('tag-selected', this.selectedTag)
+    },
+    clearSelectedTag() {
+      this.selectedTag = null
+      this.$emit('tag-selected', null)
     }
   }
 }
@@ -55,6 +70,12 @@ export default {
 
 <style lang="scss">
 .badge {
-  margin: 0 0.25rem;
+  margin: 0 0.35rem;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.tags-list {
+  padding: 0 3rem;
 }
 </style>

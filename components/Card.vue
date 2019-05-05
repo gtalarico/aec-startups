@@ -8,15 +8,17 @@
         {{ description }}
       </p>
     </div>
-    <!-- <ul class="list-group list-group-flush">
-      <li class="list-group-item">Cras justo odio</li>
-    </ul> -->
     <div class="card-body">
       <a :href="website" target="blank" class="card-link">Website</a>
       <a v-if="crunchbase" :href="crunchbase" target="blank" class="card-link"
         >Crunchbase</a
       >
     </div>
+    <ul class="list-group list-group-flush">
+      <li v-if="funding" class="list-group-item">
+        <span class="label">Funding</span> {{ funding }}
+      </li>
+    </ul>
   </div>
 </template>
 
@@ -41,6 +43,10 @@ export default {
       default: ''
     },
     crunchbase: {
+      type: String,
+      default: ''
+    },
+    funding: {
       type: String,
       default: ''
     },
