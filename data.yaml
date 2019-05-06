@@ -10,6 +10,32 @@ startups:
   tags:
   - analysis
 
+- title: Archistar
+  description: Archistar.ai empowers property developers, governments and agents with next-generation intelligence in real-time.
+  website: https://www.archistar.ai
+  image: logos/archistar.png
+  crunchbase:
+  funding:
+  industries:
+  - architecture
+  tags:
+  - generative
+  - spatial data
+  - web app
+
+- title: Blokable
+  description: Blokable seeks to unlock the efficiencies of technological and financial system advances and create a process that turns real estate development into a transparent and easily managed service
+  website: https://blokable.com
+  image: logos/blockable.png
+  crunchbase:
+  funding:
+  industries:
+  - architecture
+  - construction
+  tags:
+  - prefabrication
+  - housing crisis
+
 - title: Bricsys
   description: Bricsys offers innovative solutions for 2D drafting, 3D direct modeling, sheet metal design and Building Information Modeling (BIM)
   website: https://www.bricsys.com
@@ -19,7 +45,7 @@ startups:
   industries:
   - architecture
   tags:
-  - desktop-app
+  - desktop app
 
 - title: Bright Machines
   description: Software-Defined Manufacturing
@@ -43,6 +69,33 @@ startups:
   tags:
   - vr
 
+- title: Fieldlens
+  description:
+  website: https://fieldlens.com/
+  image: logos/fieldlens.png
+  crunchbase:
+  funding: Acquired by WeWork
+  industries:
+  - architecture
+  - construction
+  tags:
+  - construction management
+  - web app
+
+
+- title: Flux.io
+  description: Cloud interoperability and data-sharing for the AEC industry
+  website: https://archpaper.com/2018/02/flux-to-shut-down/
+  image: logos/fluxio.png
+  crunchbase:
+  funding: Dead
+  industries:
+  - architecture
+  tags:
+  - housing crisis
+  - interoperability
+  - web app
+  - flux spin-off
 
 - title: Fologram
   description: An easy to use platform for building applications in mixed reality
@@ -68,6 +121,30 @@ startups:
   - point cloud
   - flux spin-off
 
+- title: Higharc
+  description: Get a custom home design without hiring an architect
+  website: https://higharc.com
+  image: logos/higharc.png
+  crunchbase:
+  funding:
+  industries:
+  - architecture
+  tags:
+  - design automation
+  - web app
+
+- title: Hypar
+  description: We provide a cloud compute environment and software libraries that enable AEC developers to deploy their specialized building logic to the cloud, and make it available to their team, their organization, or the world.
+  website: https://hypar.io/
+  image: logos/hypar.png
+  crunchbase:
+  funding:
+  industries:
+  - architecture
+  tags:
+  - web app
+  - generative
+
 - title: Join
   description: Join optimizes product and material selection and usage, based on project's unique characteristics
   website: https://join.build
@@ -80,6 +157,18 @@ startups:
   tags:
   - cost estimation
   - flux spin-off
+
+- title: Kasita
+  description: A Micro-Housing Start-Up
+  website: https://kasita.com/
+  image: logos/kasita.png
+  crunchbase:
+  funding:
+  industries:
+  - architecture
+  - construction
+  tags:
+  - prefabrication
 
 - title: Katerra
   description: Katerra is a technology company optimizing the way we develop, design, and construct buildings
@@ -137,7 +226,7 @@ startups:
   industries:
   - construction
   tags:
-  - pre-fabrication
+  - prefabrication
 
 - title: Modelo
   description: Modelo is a cloud based design and development communication platform for AEC industry
@@ -185,6 +274,31 @@ startups:
   tags:
   - construction management
 
+- title: Spacemaker
+  description: Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site.
+  website: https://spacemaker.ai
+  image: logos/spacemaker.png
+  crunchbase:
+  funding:
+  industries:
+  - architecture
+  tags:
+  - housing crisis
+  - generative
+  - web app
+
+- title: Speckle
+  description: Speckle is an open source (MIT) initiative for developing an extensible Design & AEC data communication and collaboration platform.
+  website: https://speckle.works/
+  image: logos/speckle.png
+  crunchbase:
+  funding: Open Source (MIT)
+  industries:
+  - architecture
+  tags:
+  - interoperability
+  - web app
+
 - title: Testfit.io
   description: Rapid Test Fit Software
   website: https://testfit.io/
@@ -214,6 +328,18 @@ startups:
   image: logos/upcodes.png
   crunchbase: https://www.crunchbase.com/organization/upcodes
   funding: Seed
+  industries:
+  - architecture
+  tags:
+  - documentation
+  - web app
+
+- title: WeWork
+  description: The We Company is a platform for creators that transforms buildings into dynamic environments for creativity, focus, and collaboration.
+  website: https://www.wework.com/
+  image: logos/wework.png
+  crunchbase: https://www.crunchbase.com/organization/wework
+  funding: Late Stage Venture ()
   industries:
   - architecture
   tags:
