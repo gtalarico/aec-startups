@@ -22,6 +22,19 @@ startups:
   - generative
   - spatial data
   - web app
+  
+- title: BIM Track
+  description: The communication platform for better BIM coordination. Features bi-directional issue tracking between major software platforms to make it easier to raise and resolve questions, comments, and other issues.
+  website: https://bimtrack.co
+  image: logos/bimtrack.png
+  crunchbase: https://www.crunchbase.com/organization/bim-track
+  funding:
+  industries:
+  - architecture
+  - construction
+  - engineering
+  tags:
+  - web app
 
 - title: Blokable
   description: Blokable seeks to unlock the efficiencies of technological and financial system advances and create a process that turns real estate development into a transparent and easily managed service
