@@ -250,11 +250,11 @@ startups:
   - web app
 
 - title: Leko Labs
-  description: Rethinking Building
+  description: Leko is a tech-company committed to reinvent the construction process for next generation buildings
   website: https://www.lekolabs.com/
   image: logos/leko.png
   crunchbase: https://www.crunchbase.com/organization/leko-labs
-  funding:
+  funding: Grant
   industries:
   - construction
   tags:
