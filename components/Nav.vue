@@ -1,28 +1,20 @@
 <template>
   <div class="container-fluid py-4 text-center">
-    <!-- <div class="bar"></div> -->
-    <h2 class="text-center">
-      Aec Startups
-    </h2>
-    <p class="lead text-secondary">
-      ✨ Just a List of Shiny Startups in the AEC Space ✨
-    </p>
-
     <div class="mb-3 mt-3 tags-list">
       <b-badge
         v-for="(tag, i) in tags"
         :key="i"
         href="#"
-        :variant="selectedTag === tag ? 'primary' : 'default'"
-        @click="selectTag(tag)"
+        :variant="isSelected(tag) ? 'secondary' : 'default text-muted'"
+        @click="doSelectTag(tag)"
       >
         {{ tag }}
       </b-badge>
       <b-badge
-        v-show="selectedTag !== null"
-        variant="danger"
+        v-show="selectedTags.length > 0"
+        variant="warning"
         href="#"
-        @click="clearSelectedTag()"
+        @click="doSelectTag(null)"
       >
         Clear Filter
       </b-badge>
@@ -35,12 +27,14 @@ export default {
     startups: {
       type: Array,
       default: () => []
+    },
+    selectedTags: {
+      type: Array,
+      default: () => []
     }
   },
   data() {
-    return {
-      selectedTag: null
-    }
+    return {}
   },
   computed: {
     tags() {
@@ -55,17 +49,11 @@ export default {
     }
   },
   methods: {
-    selectTag(tag) {
-      if (this.selectedTag === tag) {
-        this.selectedTag = null
-      } else {
-        this.selectedTag = tag
-      }
-      this.$emit('tag-selected', this.selectedTag)
+    isSelected(tag) {
+      return this.selectedTags.includes(tag)
     },
-    clearSelectedTag() {
-      this.selectedTag = null
-      this.$emit('tag-selected', null)
+    doSelectTag(tag) {
+      this.$emit('tag-selected', tag)
     }
   }
 }

@@ -1,12 +1,18 @@
 <template>
   <section>
-    <Nav :startups="startups" @tag-selected="tagSelected" />
+    <Header />
+    <Nav
+      :startups="startups"
+      :selected-tags="selectedTags"
+      @tag-selected="tagSelected"
+    />
     <Grid :startups="filteredStartups" />
     <Footer />
   </section>
 </template>
 
 <script>
+import Header from '~/components/Header.vue'
 import Nav from '~/components/Nav.vue'
 import Grid from '~/components/Grid.vue'
 import Footer from '~/components/Footer.vue'
@@ -14,6 +20,7 @@ import DATA from '~/data.yaml'
 
 export default {
   components: {
+    Header,
     Nav,
     Grid,
     Footer
@@ -21,45 +28,33 @@ export default {
   data: function() {
     return {
       startups: DATA.startups,
-      selectedTag: null
+      selectedTags: []
     }
   },
   computed: {
     filteredStartups() {
-      if (!this.selectedTag) return this.startups
+      if (this.selectedTags.length === 0) return this.startups
       else
         return this.startups
-          .filter(f => f.tags.includes(this.selectedTag))
+          .filter(f => f.tags.some(t => this.selectedTags.includes(t)))
           .sort((a, b) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0))
     }
   },
   methods: {
     tagSelected(tag) {
-      this.selectedTag = tag
+      if (tag === null) {
+        this.selectedTags = []
+        return
+      }
+      const index = this.selectedTags.indexOf(tag)
+      if (index === -1) {
+        this.selectedTags.push(tag)
+      } else {
+        this.selectedTags.splice(index, 1)
+      }
     }
   }
 }
 </script>
 
-<style>
-html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
-
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-</style>
+<style></style>
