@@ -309,6 +309,16 @@ startups:
   - data management
   - flux spin-off
 
+- title: PiXYZ
+  description: PiXYZ Software is the leading solution for large CAD data automatic preparation, optimization & review (patents pending)
+  website: https://www.pixyz-software.com/
+  image: logos/pixyz.png
+  crunchbase: https://www.crunchbase.com/organization/pixyz-software
+  funding: 
+  industries:
+  tags:
+  - desktop app
+
 - title: PlanGrid
   description: Simple, powerful construction software that GCs, subs, and owners love to use.
   website: http://www.plangrid.com/
