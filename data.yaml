@@ -1,4 +1,16 @@
 startups:
+
+- title: Archilogic
+  description: Archilogic's platform empowers users to easily create, edit, and share 3D content for interiors.
+  website: https://archilogic.com/
+  image: logos/archilogic.png
+  crunchbase: https://www.crunchbase.com/organization/archilogic
+  funding: Seed
+  industries:
+  - architecture
+  tags:
+  - model viewer
+
 - title: Archilyse
   description: Holistic numeric architecture analysis as an easy to use API solution
   website: https://www.archilyse.com/
@@ -82,7 +94,6 @@ startups:
   - construction management
   - web app
 
-
 - title: Flux.io
   description: Cloud interoperability and data-sharing for the AEC industry
   website: https://archpaper.com/2018/02/flux-to-shut-down/
@@ -108,6 +119,17 @@ startups:
   tags:
   - vr
 
+- title: Grit
+  description: Agile Construction Management Platform
+  website: https://www.gritvirtual.com/
+  image: logos/grit.png
+  crunchbase: https://www.crunchbase.com/organization/grit-virtual-inc
+  funding:
+  industries:
+  - construction
+  tags:
+  - project management
+
 
 - title: Helix RE
   description: Data solution for large-scale property owners and managers
@@ -121,6 +143,7 @@ startups:
   - point cloud
   - flux spin-off
 
+<<<<<<< HEAD
 - title: Higharc
   description: Get a custom home design without hiring an architect
   website: https://higharc.com
@@ -144,6 +167,18 @@ startups:
   tags:
   - web app
   - generative
+=======
+- title: Iris VR
+  description: IrisVR enables digital prototyping of physical space, allowing the most complex decisions to be made at human scale
+  website: https://irisvr.com/
+  image: logos/irisvr.png
+  crunchbase: https://www.crunchbase.com/organization/irisvr-inc
+  funding: Series A $9.6M
+  industries:
+  - architecture
+  tags:
+  - vr
+>>>>>>> Added iris, grit, archilogic
 
 - title: Join
   description: Join optimizes product and material selection and usage, based on project's unique characteristics
@@ -238,6 +273,7 @@ startups:
   - architecture
   tags:
   - web app
+  - model viewer
 
 - title: Monograph
   description: Project Management Softwar For Architects & Engineers
