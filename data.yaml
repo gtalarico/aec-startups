@@ -143,7 +143,6 @@ startups:
   - point cloud
   - flux spin-off
 
-<<<<<<< HEAD
 - title: Higharc
   description: Get a custom home design without hiring an architect
   website: https://higharc.com
@@ -167,7 +166,7 @@ startups:
   tags:
   - web app
   - generative
-=======
+
 - title: Iris VR
   description: IrisVR enables digital prototyping of physical space, allowing the most complex decisions to be made at human scale
   website: https://irisvr.com/
@@ -178,7 +177,6 @@ startups:
   - architecture
   tags:
   - vr
->>>>>>> Added iris, grit, archilogic
 
 - title: Join
   description: Join optimizes product and material selection and usage, based on project's unique characteristics
@@ -215,7 +213,6 @@ startups:
   - construction
   tags:
   - manufacturing
-
 
 - title: Konstru
   description: Faster Updates, Easier Collaboration, & Reliable Change Management for BIM
