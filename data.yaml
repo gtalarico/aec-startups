@@ -331,12 +331,12 @@ startups:
   tags:
   - construction management
 
-- title: Samara
+- title: Samara | Backyard
   description: An initiative to prototype new ways that homes can be built and shared, guided by an ambition to realize more humanistic, future-oriented, and waste-conscious design.
-  website: https://samara.com/
+  website: https://samara.com/backyard/
   image: https://static.dezeen.com/uploads/2018/12/airbnb-backyard-initiative-samara-housing-prototype_dezeen_hero-852x479.jpg
   crunchbase:
-  funding: Stealth Mode / In-house Startup
+  funding: In-house Startup
   industries:
   - architecture
   - construction
