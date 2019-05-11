@@ -34,7 +34,7 @@ startups:
   - generative
   - spatial data
   - web app
-  
+
 - title: BIM Track
   description: The communication platform for better BIM coordination. Features bi-directional issue tracking between major software platforms to make it easier to raise and resolve questions, comments, and other issues.
   website: https://bimtrack.co
@@ -59,7 +59,7 @@ startups:
   - construction
   tags:
   - prefabrication
-  - housing crisis
+  - housing
 
 - title: Bricsys
   description: Bricsys offers innovative solutions for 2D drafting, 3D direct modeling, sheet metal design and Building Information Modeling (BIM)
@@ -116,7 +116,7 @@ startups:
   industries:
   - architecture
   tags:
-  - housing crisis
+  - housing
   - interoperability
   - web app
   - flux spin-off
@@ -161,10 +161,11 @@ startups:
   website: https://higharc.com
   image: logos/higharc.png
   crunchbase:
-  funding:
+  funding: Seed $4.7M
   industries:
   - architecture
   tags:
+  - housing
   - design automation
   - web app
 
@@ -314,7 +315,7 @@ startups:
   website: https://www.pixyz-software.com/
   image: logos/pixyz.png
   crunchbase: https://www.crunchbase.com/organization/pixyz-software
-  funding: 
+  funding:
   industries:
   tags:
   - desktop app
@@ -335,7 +336,7 @@ startups:
   website: https://samara.com/
   image: https://samara.com/assets/images/logo.svg
   crunchbase:
-  funding: stealth mode / in-house startup
+  funding: Stealth Mode / In-house Startup
   industries:
   - architecture
   - construction
@@ -352,7 +353,7 @@ startups:
   industries:
   - architecture
   tags:
-  - housing crisis
+  - housing
   - generative
   - web app
 
