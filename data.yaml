@@ -1,5 +1,19 @@
 startups:
 
+- title: 3D Repo
+  description: Cloud-Based BIM
+  website: https://3drepo.com
+  image: logos/3drepo.png
+  crunchbase: https://www.crunchbase.com/organization/3d-repo
+  funding: Seed
+  industries:
+  - architecture
+  - construction
+  tags:
+  - web app
+  - issue tracking
+  - change management
+
 - title: Archilogic
   description: Archilogic's platform empowers users to easily create, edit, and share 3D content for interiors.
   website: https://archilogic.com/
@@ -263,6 +277,7 @@ startups:
   - engineering
   tags:
   - web app
+  - change management
 
 - title: Ladybug Tools
   description: Making environmental design knowledge and tools freely accessible to every person, project and design process
