@@ -444,6 +444,17 @@ startups:
   - documentation
   - web app
 
+- title: Visual Vocal
+  description:
+  website: https://visualvocal.com/
+  image: logos/visualvocal.png
+  crunchbase: https://www.crunchbase.com/organization/visual-vocal
+  funding: Venture
+  industries:
+  - construction
+  tags:
+  - vr
+
 - title: WeWork
   description: The We Company is a platform for creators that transforms buildings into dynamic environments for creativity, focus, and collaboration.
   website: https://www.wework.com/
