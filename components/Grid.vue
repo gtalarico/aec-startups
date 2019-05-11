@@ -1,5 +1,6 @@
 <template>
   <main id="grid">
+    <card-news />
     <card v-for="(entry, i) in startups" :key="i" v-bind="entry" />
     <card-add />
   </main>
@@ -9,11 +10,13 @@
 import MagicGrid from 'magic-grid'
 import Card from '~/components/Card'
 import CardAdd from '~/components/CardAdd'
+import CardNews from '~/components/CardNews'
 
 export default {
   components: {
     Card,
-    CardAdd
+    CardAdd,
+    CardNews
   },
   props: {
     startups: {
@@ -40,7 +43,6 @@ export default {
     initGrid() {
       this.magicGrid = new MagicGrid({
         container: this.$el,
-        // static: true,
         items: this.startups.length,
         animate: true,
         gutter: 20

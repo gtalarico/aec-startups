@@ -27,9 +27,8 @@ export default {
 .header {
   border-bottom: 1px solid #ddd;
   height: 6rem;
-  // margin-right: 3rem;
-  // margin-left: 3rem;
-  // background-color: #f9f9f9;
+  margin-bottom: 1rem;
+  padding-bottom: 2rem;
   // width: 100%;
 }
 
