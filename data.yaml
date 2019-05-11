@@ -330,6 +330,19 @@ startups:
   tags:
   - construction management
 
+- title: Samara
+  description: An initiative to prototype new ways that homes can be built and shared, guided by an ambition to realize more humanistic, future-oriented, and waste-conscious design.
+  website: https://samara.com/
+  image: https://samara.com/assets/images/logo.svg
+  crunchbase:
+  funding: stealth mode / in-house startup
+  industries:
+  - architecture
+  - construction
+  tags:
+  - housing
+  - airbnb
+
 - title: Spacemaker
   description: Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site.
   website: https://spacemaker.ai
