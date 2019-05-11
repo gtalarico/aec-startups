@@ -132,6 +132,19 @@ startups:
   tags:
   - vr
 
+- title: GliderBIM
+  description: Lifecycle Asset Information Management software for the built environment
+  website: https://gliderbim.com
+  image: https://camo.githubusercontent.com/40bb6e4d54fa99f515780dbf8dbfd7cec3ccb413/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4470745761576a5863414134484f582e6a7067
+  crunchbase: https://www.crunchbase.com/organization/grit-virtual-inc
+  funding:
+  industries:
+  - facilities management
+  tags:
+  - web app
+  - asset management
+
+
 - title: Grit
   description: Agile Construction Management Platform
   website: https://www.gritvirtual.com/
