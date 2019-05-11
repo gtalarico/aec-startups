@@ -299,6 +299,21 @@ startups:
   - web app
   - model viewer
 
+- title: Molteao
+  description: Molteo provides an easy-to-use tool which provides a real-time overview of projects and construction sites, flexible resource capture, and paperless billing
+  website: https://molteo.de/
+  image: https://user-images.githubusercontent.com/50488062/57527623-716b6980-7330-11e9-8b14-5236bae06d29.png
+  crunchbase: https://www.crunchbase.com/organization/molteo
+  funding: Seed
+  industries:
+  - engineering
+  - construction
+  tags:
+  - web app
+  - construction management
+  - cost estimation
+  - project management
+
 - title: Monograph
   description: Project Management Software For Architects & Engineers
   website: https://monograph.io
