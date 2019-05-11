@@ -1,12 +1,12 @@
 <template>
   <section>
-    <Overlay />
     <Header />
     <Nav
       :startups="startups"
       :selected-tags="selectedTags"
       @tag-selected="tagSelected"
     />
+    <Overlay />
     <Grid :startups="filteredStartups" />
     <Footer />
   </section>

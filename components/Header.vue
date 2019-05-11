@@ -25,17 +25,16 @@ export default {
 @import '~/assets/scss/app.scss';
 
 .header {
-  // border-bottom: 1px solid #eee;
   margin-top: 4rem;
   height: 6rem;
-  // width: 100%;
 }
 
 .logo {
   font-family: ABeeZee;
+  font-weight: 700;
   font-size: 2.5rem;
   margin-top: 1.5rem;
-  margin-bottom: 0rem;
+  margin-bottom: 0.5rem;
 }
 
 .logo-subtitle {
