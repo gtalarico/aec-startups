@@ -107,6 +107,18 @@ startups:
   - construction management
   - web app
 
+- title: Floored
+  description: Interactive real estate marketing and leasing tool that puts real estate professionals in control of their test-fits
+  website: https://www.floored.com/
+  image: logos/floored.png
+  crunchbase: https://www.crunchbase.com/organization/floored
+  funding: Acquired by CBRE
+  industries:
+  - architecture
+  tags:
+  - design automation
+
+
 - title: Flux.io
   description: Cloud interoperability and data-sharing for the AEC industry
   website: https://archpaper.com/2018/02/flux-to-shut-down/
