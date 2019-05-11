@@ -25,10 +25,9 @@ export default {
 @import '~/assets/scss/app.scss';
 
 .header {
-  border-bottom: 1px solid #ddd;
+  // border-bottom: 1px solid #eee;
+  margin-top: 4rem;
   height: 6rem;
-  margin-bottom: 1rem;
-  padding-bottom: 2rem;
   // width: 100%;
 }
 

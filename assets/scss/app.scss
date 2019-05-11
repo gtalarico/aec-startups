@@ -13,9 +13,10 @@ html {
 }
 
 
-
 body {
-  @include  linear-gradient(120deg, #f9f4f4 0%, #ebedee 100%)
+  // @include  linear-gradient(120deg, #f9f4f4 0%, #ebedee 100%);
+    background-image: url('/fishnets-and-hearts.png');
+
 }
 
 a {

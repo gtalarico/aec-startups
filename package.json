@@ -20,7 +20,8 @@
     "magic-grid": "^3.2.4",
     "node-sass": "^4.12.0",
     "nuxt": "^2.4.0",
-    "sass-loader": "^7.1.0"
+    "sass-loader": "^7.1.0",
+    "vue-rellax": "^0.1.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",

@@ -1,5 +1,5 @@
 <template>
-  <main id="grid">
+  <main id="grid" class="grid" :class="{ 'grid-ready': gridIsReady }">
     <card-news />
     <card v-for="(entry, i) in startups" :key="i" v-bind="entry" />
     <card-add />
@@ -29,6 +29,11 @@ export default {
       magicGrid: null
     }
   },
+  computed: {
+    gridIsReady() {
+      return this.magicGrid ? this.magicGrid.ready() : false
+    }
+  },
   watch: {
     startups() {
       this.$nextTick(() => {
@@ -55,4 +60,12 @@ export default {
 }
 </script>
 
-<style lang="scss"></style>
+<style lang="scss">
+.grid {
+  transition: opacity 200ms ease-in;
+  opacity: 0;
+  &.grid-ready {
+    opacity: 1;
+  }
+}
+</style>

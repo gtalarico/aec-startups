@@ -1,16 +1,18 @@
 <template>
   <div class="footer container-fluid py-4 text-center">
     <!-- TWITTER FOLLOW -->
-    <a
-      class="twitter-follow-button text-center"
-      href="https://twitter.com/aec_startups?ref_src=twsrc%5Etfw"
-      data-show-count="false"
-      >Follow @aec_startups</a
-    ><script
-      async
-      src="https://platform.twitter.com/widgets.js"
-      charset="utf-8"
-    ></script>
+    <no-ssr>
+      <a
+        class="twitter-follow-button text-center"
+        href="https://twitter.com/aec_startups?ref_src=twsrc%5Etfw"
+        data-show-count="false"
+        >Follow @aec_startups</a
+      ><script
+        async
+        src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"
+      ></script>
+    </no-ssr>
     <!-- TWITTER -->
     <hr />
     <p class="text-muted font-italic">

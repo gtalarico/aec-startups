@@ -1,5 +1,6 @@
 <template>
   <section>
+    <Overlay />
     <Header />
     <Nav
       :startups="startups"
@@ -14,14 +15,18 @@
 <script>
 import Header from '~/components/Header.vue'
 import Nav from '~/components/Nav.vue'
+import Overlay from '~/components/Overlay.vue'
 import Grid from '~/components/Grid.vue'
 import Footer from '~/components/Footer.vue'
 import DATA from '~/data.yaml'
+
+// import Rellax from 'rellax'
 
 export default {
   components: {
     Header,
     Nav,
+    Overlay,
     Grid,
     Footer
   },

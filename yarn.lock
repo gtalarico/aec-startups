@@ -6864,6 +6864,11 @@ relateurl@0.2.x, relateurl@^0.2.7:
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
 
+rellax@^1.7.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/rellax/-/rellax-1.9.1.tgz#aca23c1acf3867e66348234f86da435d7ccc3c49"
+  integrity sha512-z1wQwbmVYy3NoVbNxdnYyXyUG/2wBpyKPSsoFhb44Tv5mooSueqURcksHxO9zarm2adFob6qT5xMtpb30F0iVA==
+
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
@@ -7844,7 +7849,7 @@ tryer@^1.0.0:
   resolved "https://registry.yarnpkg.com/tryer/-/tryer-1.0.1.tgz#f2c85406800b9b0f74c9f7465b81eaad241252f8"
   integrity sha512-c3zayb8/kWWpycWYg87P71E1S1ZL6b6IJxfb5fvsUgsf0S2MVGaDhDXXjDMpdCpfWXqptc+4mXwmiy1ypXqRAA==
 
-tslib@^1.9.0:
+tslib@^1.9.0, tslib@^1.9.3:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
   integrity sha512-4krF8scpejhaOgqzBEcGM7yDIEfi0/8+8zDRZhNZZ2kjmHJ4hv3zCbQWxoJGz1iw5U0Jl0nma13xzHXcncMavQ==
@@ -8211,6 +8216,14 @@ vue-no-ssr@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/vue-no-ssr/-/vue-no-ssr-1.1.1.tgz#875f3be6fb0ae41568a837f3ac1a80eaa137b998"
   integrity sha512-ZMjqRpWabMPqPc7gIrG0Nw6vRf1+itwf0Itft7LbMXs2g3Zs/NFmevjZGN1x7K3Q95GmIjWbQZTVerxiBxI+0g==
+
+vue-rellax@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/vue-rellax/-/vue-rellax-0.1.0.tgz#799af31646079384947157649a453f794ad24687"
+  integrity sha512-S10yxVGyCdK9ul8F2EsG+NKK5XOPIxzuj9QQTUYkAcVhOaCNUWkOqJYeo5w3YnSXYdvE9a5wqsrmG7ow8cg8zQ==
+  dependencies:
+    rellax "^1.7.1"
+    tslib "^1.9.3"
 
 vue-router@^3.0.6:
   version "3.0.6"

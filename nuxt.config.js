@@ -24,6 +24,12 @@ export default {
         rel: 'stylesheet',
         href: 'https://fonts.googleapis.com/css?family=ABeeZee'
       }
+    ],
+    script: [
+      {
+        src: 'https://polyfill.io/v3/polyfill.min.js?features=WeakMap',
+        crossorigin: 'anonymous'
+      }
     ]
   },
 
@@ -35,7 +41,10 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ['~/plugins/bootstrap-vue.js'],
+  plugins: [
+    '~/plugins/bootstrap-vue.js',
+    '~~/node_modules/vue-rellax/lib/nuxt-plugin'
+  ],
 
   /*
    ** Nuxt.js modules
