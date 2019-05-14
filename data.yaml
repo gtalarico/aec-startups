@@ -96,6 +96,18 @@ startups:
   - construction
   tags:
   - manufacturing
+  
+  
+- title: CBRE Build
+  description: CBRE Build is tech group within CBRE that builds technology for commercial Real Estate including Plans, a space-planning tool they acquired in 2017 (previously Floored).
+  website: https://www.cbrebuild.com/
+  image: logos/cbre_build.png
+  crunchbase: 
+  funding: In-house Startup at CBRE
+  industries:
+  - architecture
+  tags:
+  - design automation
 
 - title: Daquri
   description: Empower your workforce to solve meaningul problems with Professional Grade AR™
@@ -130,6 +142,7 @@ startups:
   industries:
   - architecture
   tags:
+  - space planning 
   - design automation
 
 
@@ -391,13 +404,12 @@ startups:
   website: https://samara.com/backyard/
   image: https://static.dezeen.com/uploads/2018/12/airbnb-backyard-initiative-samara-housing-prototype_dezeen_hero-852x479.jpg
   crunchbase:
-  funding: In-house Startup
+  funding: In-house Startup at Airbnb
   industries:
   - architecture
   - construction
   tags:
   - housing
-  - airbnb
 
 - title: Spacemaker
   description: Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site.
