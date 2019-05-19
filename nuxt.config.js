@@ -50,6 +50,12 @@ export default {
    ** Nuxt.js modules
    */
   modules: [
+    [
+      '@nuxtjs/google-analytics',
+      {
+        id: 'UA-3836052-14'
+      }
+    ]
     // Doc: https://bootstrap-vue.js.org/docs/
     // 'bootstrap-vue/nuxt'
   ],
