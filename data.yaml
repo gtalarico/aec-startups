@@ -132,11 +132,24 @@ startups:
   tags:
   - vr
 
+- title: Factory OS
+  description: Vertically integrated offsite construction
+  website: https://factoryos.com/
+  image: https://user-images.githubusercontent.com/9513968/58451741-9817f700-80c9-11e9-9133-7659af540dcb.png
+  crunchbase: Pffsote
+  funding:
+  industries:
+  - architecture
+  - construction
+  tags:
+  - prefabrication
+  - housing
+
 - title: Fieldlens
-  description:
+  description: Tool to improves communication and collaboration for construction project teams
   website: https://fieldlens.com/
   image: logos/fieldlens.png
-  crunchbase:
+  crunchbase: https://www.crunchbase.com/organization/fieldlens
   funding: Acquired by WeWork
   industries:
   - architecture
