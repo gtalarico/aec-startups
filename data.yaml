@@ -96,18 +96,30 @@ startups:
   - construction
   tags:
   - manufacturing
-  
-  
+
+
 - title: CBRE Build
   description: CBRE Build is tech group within CBRE that builds technology for commercial Real Estate including Plans, a space-planning tool they acquired in 2017 (previously Floored).
   website: https://www.cbrebuild.com/
   image: logos/cbre_build.png
-  crunchbase: 
+  crunchbase:
   funding: In-house Startup at CBRE
   industries:
   - architecture
   tags:
   - design automation
+
+- title: Cover
+  description: Custom Backyard Homes
+  website: https://www.cover.build/
+  image: https://user-images.githubusercontent.com/9513968/58451235-73228480-80c7-11e9-9043-d253c1c83ebd.png
+  crunchbase: https://www.crunchbase.com/organization/cover-technologies-inc
+  funding: Seed ($1.6M)
+  industries:
+  - architecture
+  tags:
+  - prefabrication
+  - housing
 
 - title: Daquri
   description: Empower your workforce to solve meaningul problems with Professional Grade AR™
@@ -120,11 +132,24 @@ startups:
   tags:
   - vr
 
+- title: Factory OS
+  description: Vertically integrated offsite construction
+  website: https://factoryos.com/
+  image: https://user-images.githubusercontent.com/9513968/58451741-9817f700-80c9-11e9-9133-7659af540dcb.png
+  crunchbase: Pffsote
+  funding:
+  industries:
+  - architecture
+  - construction
+  tags:
+  - prefabrication
+  - housing
+
 - title: Fieldlens
-  description:
+  description: Tool to improves communication and collaboration for construction project teams
   website: https://fieldlens.com/
   image: logos/fieldlens.png
-  crunchbase:
+  crunchbase: https://www.crunchbase.com/organization/fieldlens
   funding: Acquired by WeWork
   industries:
   - architecture
@@ -142,7 +167,7 @@ startups:
   industries:
   - architecture
   tags:
-  - space planning 
+  - space planning
   - design automation
 
 
@@ -366,6 +391,18 @@ startups:
   - project management
   - web app
 
+- title: OpenSpace
+  description: Job site 360 photos documentation
+  website: https://openspace.ai/
+  image: https://user-images.githubusercontent.com/9513968/58451421-4458de00-80c8-11e9-8d2d-56388a00d2f5.png
+  crunchbase: https://www.crunchbase.com/organization/openspace-ai
+  funding: Seed ($3.5M)
+  industries:
+  - architecture
+  tags:
+  - construction management
+  - claims AI
+
 - title: Outer Labs
   description: Connect your digital and physical workflow
   website: http://www.outerlabs.io
@@ -450,14 +487,15 @@ startups:
 
 - title: Topos
   description: opos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities
-  website: https://www.crunchbase.com/organization/topos
+  website: https://topos.com
   image: logos/topos.png
-  crunchbase:
+  crunchbase: https://www.crunchbase.com/organization/topos
   funding: Seed
   industries:
   - real estate
   tags:
   - spatial data
+  - claims AI
 
 - title: UpCodes
   description: UpCodes helps the AEC industry deliver code compliant buildings
@@ -470,6 +508,7 @@ startups:
   tags:
   - documentation
   - web app
+  - claims AI
 
 - title: Visual Vocal
   description:
