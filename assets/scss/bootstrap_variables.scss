@@ -9,9 +9,9 @@ $body-bg: #f6f6f6;
 
 // linear-gradient(15deg, #14af83, #15b89a);
 $font-family-sans-serif: 'Roboto', sans-serif;
-
+$primary:  rgb(22, 185, 145);
 $theme-colors: (
-    "primary": rgb(22, 185, 145),
+    "primary": $primary,
     "secondary": #5573ac,
     "danger": #d45b55
 );

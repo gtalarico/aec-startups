@@ -1,5 +1,10 @@
 <template>
-  <div class="card">
+  <div
+    :id="cardId"
+    class="card"
+    :class="{ 'card-selected': $route.hash.includes(cardId) }"
+    @click="$emit('click')"
+  >
     <img v-if="image" class="card-img-top" :src="image" alt="Logo" />
     <div v-else class="card-img-top no-logo" alt="Logo" />
     <div class="card-body">
@@ -26,6 +31,10 @@
 export default {
   name: 'Card',
   props: {
+    cardId: {
+      type: String,
+      default: ''
+    },
     title: {
       type: String,
       default: ''

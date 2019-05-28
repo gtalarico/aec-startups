@@ -2,6 +2,7 @@ import pkg from './package'
 
 export default {
   mode: 'universal',
+  ssr: false,
 
   /*
    ** Headers of the page
@@ -62,7 +63,7 @@ export default {
 
   build: {
     transpile: ['vue-magic-grid'],
-    extend(config, ctx) {
+    extend (config, ctx) {
       // Run ESLint on save
       if (ctx.isDev && ctx.isClient) {
         config.module.rules.push({
