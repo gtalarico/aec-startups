@@ -378,6 +378,18 @@ startups:
   - project management
   - web app
 
+- title: OpenSpace
+  description: Job site 360 photos documentation
+  website: https://openspace.ai/
+  image: https://user-images.githubusercontent.com/9513968/58451421-4458de00-80c8-11e9-8d2d-56388a00d2f5.png
+  crunchbase: https://www.crunchbase.com/organization/openspace-ai
+  funding: Seed ($3.5M)
+  industries:
+  - architecture
+  tags:
+  - construction management
+  - claims AI
+
 - title: Outer Labs
   description: Connect your digital and physical workflow
   website: http://www.outerlabs.io
@@ -462,14 +474,15 @@ startups:
 
 - title: Topos
   description: opos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities
-  website: https://www.crunchbase.com/organization/topos
+  website: https://topos.com
   image: logos/topos.png
-  crunchbase:
+  crunchbase: https://www.crunchbase.com/organization/topos
   funding: Seed
   industries:
   - real estate
   tags:
   - spatial data
+  - claims AI
 
 - title: UpCodes
   description: UpCodes helps the AEC industry deliver code compliant buildings
@@ -482,6 +495,7 @@ startups:
   tags:
   - documentation
   - web app
+  - claims AI
 
 - title: Visual Vocal
   description:
