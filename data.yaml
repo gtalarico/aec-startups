@@ -96,18 +96,30 @@ startups:
   - construction
   tags:
   - manufacturing
-  
-  
+
+
 - title: CBRE Build
   description: CBRE Build is tech group within CBRE that builds technology for commercial Real Estate including Plans, a space-planning tool they acquired in 2017 (previously Floored).
   website: https://www.cbrebuild.com/
   image: logos/cbre_build.png
-  crunchbase: 
+  crunchbase:
   funding: In-house Startup at CBRE
   industries:
   - architecture
   tags:
   - design automation
+
+- title: Cover
+  description: Custom Backyard Homes
+  website: https://www.cover.build/
+  image: https://user-images.githubusercontent.com/9513968/58451235-73228480-80c7-11e9-9043-d253c1c83ebd.png
+  crunchbase: https://www.crunchbase.com/organization/cover-technologies-inc
+  funding: Seed ($1.6M)
+  industries:
+  - architecture
+  tags:
+  - prefabrication
+  - housing
 
 - title: Daquri
   description: Empower your workforce to solve meaningul problems with Professional Grade AR™
@@ -142,7 +154,7 @@ startups:
   industries:
   - architecture
   tags:
-  - space planning 
+  - space planning
   - design automation
 
 
