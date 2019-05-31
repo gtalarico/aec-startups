@@ -486,7 +486,7 @@ startups:
   - desktop app
 
 - title: Topos
-  description: opos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities
+  description: Topos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities
   website: https://topos.com
   image: logos/topos.png
   crunchbase: https://www.crunchbase.com/organization/topos
@@ -511,7 +511,7 @@ startups:
   - claims AI
 
 - title: Visual Vocal
-  description:
+  description: AR/VR superpowers for the building industry
   website: https://visualvocal.com/
   image: logos/visualvocal.png
   crunchbase: https://www.crunchbase.com/organization/visual-vocal
@@ -520,6 +520,7 @@ startups:
   - construction
   tags:
   - vr
+  - ar
 
 - title: WeWork
   description: The We Company is a platform for creators that transforms buildings into dynamic environments for creativity, focus, and collaboration.
