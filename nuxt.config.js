@@ -63,9 +63,14 @@ export default {
     // 'bootstrap-vue/nuxt'
   ],
   proxy: {
-    '/airtable': 'http://localhost:9000/'
+    '/airtable': {
+      target: 'http://localhost:9000'
+      // pathRewrite: { '^/airtable': 'airtable' }
+    }
+    // '/airtable': 'http://localhost:9000/'
   },
   axios: {
+    baseURL: '/',
     proxy: true
   },
   build: {

@@ -41,7 +41,6 @@ export default {
   data: function() {
     return {
       startups: [],
-      // startups: DATA.startups,
       selectedTags: []
     }
   },
