@@ -51,6 +51,8 @@ export default {
    ** Nuxt.js modules
    */
   modules: [
+    '@nuxtjs/proxy',
+    '@nuxtjs/axios',
     [
       '@nuxtjs/google-analytics',
       {
@@ -60,10 +62,15 @@ export default {
     // Doc: https://bootstrap-vue.js.org/docs/
     // 'bootstrap-vue/nuxt'
   ],
-
+  proxy: {
+    '/airtable': 'http://localhost:9000/'
+  },
+  axios: {
+    proxy: true
+  },
   build: {
     transpile: ['vue-magic-grid'],
-    extend (config, ctx) {
+    extend(config, ctx) {
       // Run ESLint on save
       if (ctx.isDev && ctx.isClient) {
         config.module.rules.push({

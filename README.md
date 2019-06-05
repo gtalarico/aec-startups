@@ -14,3 +14,22 @@ http://www.aecstartups.com/
 The website is auto-generated base on the entries in [data.yaml](https://github.com/gtalarico/aec-startups/blob/master/data.yaml).
 
 License MIT
+
+
+# Development
+
+Setup
+
+```bash
+$ yarn install
+```
+
+Dev server
+
+```bash
+$ nuxt start
+# from another tab
+$ npx netlify-lambda serve .
+```
+
+`env` with `AIRTABLE_KEY` must be sourced

@@ -7,7 +7,16 @@
       @tag-selected="tagSelected"
     />
     <Overlay />
-    <Grid :startups="filteredStartups" />
+    <Grid v-if="startups.length > 0" :startups="filteredStartups" />
+    <div v-else class="d-flex justify-content-center">
+      <div
+        class="spinner-grow text-primary"
+        role="status"
+        style="width: 4rem; height: 4rem;"
+      >
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
     <Footer />
   </section>
 </template>
@@ -18,9 +27,8 @@ import Nav from '~/components/Nav.vue'
 import Overlay from '~/components/Overlay.vue'
 import Grid from '~/components/Grid.vue'
 import Footer from '~/components/Footer.vue'
-import DATA from '~/data.yaml'
-
-// import Rellax from 'rellax'
+// import DATA from '~/data.yaml'
+import dataService from '~/dataService'
 
 export default {
   components: {
@@ -32,7 +40,8 @@ export default {
   },
   data: function() {
     return {
-      startups: DATA.startups,
+      startups: [],
+      // startups: DATA.startups,
       selectedTags: []
     }
   },
@@ -44,6 +53,13 @@ export default {
           .filter(f => f.tags.some(t => this.selectedTags.includes(t)))
           .sort((a, b) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0))
     }
+  },
+  created() {
+    dataService.fetchRecords().then(response => {
+      this.startups = response.records
+        .map(r => r.fields)
+        .filter(o => o.approved)
+    })
   },
   methods: {
     tagSelected(tag) {
