@@ -3,17 +3,12 @@
     <div class="card-img-top" alt="Logo" />
     <div class="card-body">
       <p class="card-text">
-        <a
-          href="https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=Add%20[Startup%20Name]"
-          target="blank"
-        >
+        <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank">
           <img src="~/assets/imgs/plus.png" alt="plus-sign" />
         </a>
       </p>
       <p>
-        <a
-          href="https://github.com/gtalarico/aec-startups/issues/new?assignees=&labels=&template=new-startup-entry.md&title=Add%20[Startup%20Name]"
-          target="blank"
+        <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank"
           >Submit Entry</a
         >
       </p>
