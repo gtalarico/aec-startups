@@ -1,7 +1,6 @@
 const Airtable = require('airtable')
 
 exports.handler = function(event, context, callback) {
-
   Airtable.configure({
     endpointUrl: 'https://api.airtable.com',
     apiKey: process.env.AIRTABLE_KEY
@@ -26,7 +25,7 @@ exports.handler = function(event, context, callback) {
           callback(err)
         } else {
           const body = JSON.stringify({ records: allRecords })
-            sendResponse(callback, body, false)
+          sendResponse(callback, body, false)
         }
       }
     )
@@ -38,7 +37,7 @@ function sendResponse(callback, body, gzip) {
     body: body,
     headers: {
       'content-type': 'application/json',
-      'cache-control': 'Cache-Control: max-age=300, public',
+      'cache-control': 'Cache-Control: max-age=300, public'
     }
   }
   callback(null, response)
