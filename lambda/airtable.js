@@ -25,20 +25,16 @@ exports.handler = function(event, context, callback) {
           callback(err)
         } else {
           const body = JSON.stringify({ records: allRecords })
-          sendResponse(callback, body, false)
+          const response = {
+            statusCode: 200,
+            body: body,
+            headers: {
+              'content-type': 'application/json',
+              'cache-control': 'Cache-Control: max-age=300, public'
+            }
+          }
+          callback(null, response)
         }
       }
     )
-}
-
-function sendResponse(callback, body, gzip) {
-  const response = {
-    statusCode: 200,
-    body: body,
-    headers: {
-      'content-type': 'application/json',
-      'cache-control': 'Cache-Control: max-age=300, public'
-    }
-  }
-  callback(null, response)
 }
