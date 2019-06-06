@@ -1,25 +1,25 @@
 <template>
   <div class="page-overlay">
     <div v-rellax="{ speed: -4 }">
-      <img id="overlay-asteroid" src="~/assets/imgs/icons8-asteroid-80.png" />
+      <img id="overlay-asteroid" src="@/assets/imgs/icons8-asteroid-80.png" />
     </div>
     <div v-rellax="{ speed: 2 }">
-      <img id="overlay-rocket" src="~/assets/imgs/icons8-rocket-100.png" />
+      <img id="overlay-rocket" src="@/assets/imgs/icons8-rocket-100.png" />
     </div>
     <div v-rellax="{ speed: 3 }">
-      <img id="overlay-house" src="~/assets/imgs/icons8-home-120.png" />
+      <img id="overlay-house" src="@/assets/imgs/icons8-home-120.png" />
     </div>
     <div v-rellax="{ speed: 1 }">
-      <img id="overlay-new-york" src="~/assets/imgs/icons8-new-york-80.png" />
+      <img id="overlay-new-york" src="@/assets/imgs/icons8-new-york-80.png" />
     </div>
     <div v-rellax="{ speed: -2 }">
       <img
         id="overlay-robot"
-        src="~/assets/imgs/icons8-science-fiction-100.png"
+        src="@/assets/imgs/icons8-science-fiction-100.png"
       />
     </div>
     <div v-rellax="{ speed: -1 }">
-      <img id="overlay-mind-map" src="~/assets/imgs/icons8-mind-map-64.png" />
+      <img id="overlay-mind-map" src="@/assets/imgs/icons8-mind-map-64.png" />
     </div>
   </div>
 </template>

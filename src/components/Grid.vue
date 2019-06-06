@@ -1,6 +1,7 @@
 <template>
   <main id="grid" class="grid" :class="{ 'grid-ready': gridIsReady }">
     <card-news />
+    <card-add />
     <card
       v-for="(entry, i) in startups"
       :key="i"
@@ -8,16 +9,15 @@
       :card-id="idFromTitle(entry.title)"
       @click="$router.push({ path: `#${idFromTitle(entry.title)}` })"
     />
-    <card-add />
   </main>
 </template>
 
 <script>
 import MagicGrid from 'magic-grid'
-import Card from '~/components/Card'
-import CardAdd from '~/components/CardAdd'
-import CardNews from '~/components/CardNews'
-import { getYposition } from '~/utils'
+import Card from '@/components/Card'
+import CardAdd from '@/components/CardAdd'
+import CardNews from '@/components/CardNews'
+// import { getYposition } from '@/utils'
 
 export default {
   components: {
@@ -65,7 +65,7 @@ export default {
       if (this.$route.hash) {
         this.$nextTick(() => {
           setTimeout(() => {
-            const y = getYposition(this.$route)
+            const y = this.getYposition(this.$route)
             window.scrollTo(0, y)
           }, 500)
         })
@@ -75,6 +75,10 @@ export default {
       const slug = title.toLowerCase().replace(' ', '-')
       const cardId = `card-${slug}`
       return cardId
+    },
+    getYposition(to) {
+      const target = document.querySelector(to.hash)
+      return target.getBoundingClientRect().top - 50
     }
   }
 }
