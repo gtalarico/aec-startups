@@ -8,11 +8,9 @@ module.exports = {
     parser: 'babel-eslint'
   },
   extends: [
-    '@nuxtjs',
-    'plugin:nuxt/recommended',
-    'plugin:prettier/recommended',
-    'prettier',
-    'prettier/vue'
+    "plugin:vue/essential",
+    "plugin:prettier/recommended",
+    "eslint:recommended"
   ],
   plugins: [
     'prettier'

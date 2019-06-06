@@ -4,7 +4,7 @@
     <div class="card-body">
       <p class="card-text">
         <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank">
-          <img src="~/assets/imgs/plus.png" alt="plus-sign" />
+          <img src="@/assets/imgs/plus.png" alt="plus-sign" />
         </a>
       </p>
       <p>

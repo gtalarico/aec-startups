@@ -27,7 +27,7 @@ $ yarn install
 Dev server
 
 ```bash
-$ nuxt start
+$ yarn serve
 # from another tab
 $ npx netlify-lambda serve .
 ```

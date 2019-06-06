@@ -8,27 +8,32 @@
     />
     <Overlay />
     <Grid v-if="startups.length > 0" :startups="filteredStartups" />
-    <div v-else class="d-flex justify-content-center">
+    <div
+      v-if="startups.lenght === 0 && !error"
+      class="d-flex justify-content-center"
+    >
       <div
         class="spinner-grow text-primary"
         role="status"
         style="width: 4rem; height: 4rem;"
-      >
-        <span class="sr-only">Loading...</span>
-      </div>
+      ></div>
     </div>
+
+    <div v-if="error" class="d-flex justify-content-center">
+      <p class="justify-content-center text-danger">{{ error }}</p>
+    </div>
+
     <Footer />
   </section>
 </template>
 
 <script>
-import Header from '~/components/Header.vue'
-import Nav from '~/components/Nav.vue'
-import Overlay from '~/components/Overlay.vue'
-import Grid from '~/components/Grid.vue'
-import Footer from '~/components/Footer.vue'
-// import DATA from '~/data.yaml'
-import dataService from '~/dataService'
+import Header from '@/components/Header.vue'
+import Nav from '@/components/Nav.vue'
+import Overlay from '@/components/Overlay.vue'
+import Grid from '@/components/Grid.vue'
+import Footer from '@/components/Footer.vue'
+import dataService from '@/dataService'
 
 export default {
   components: {
@@ -41,7 +46,8 @@ export default {
   data: function() {
     return {
       startups: [],
-      selectedTags: []
+      selectedTags: [],
+      error: null
     }
   },
   computed: {
@@ -54,11 +60,16 @@ export default {
     }
   },
   created() {
-    dataService.fetchRecords().then(response => {
-      this.startups = response.records
-        .map(r => r.fields)
-        .filter(o => o.approved)
-    })
+    dataService
+      .fetchRecords()
+      .then(response => {
+        this.startups = response.records
+          .map(r => r.fields)
+          .filter(o => o.approved)
+      })
+      .catch(err => {
+        this.error = err
+      })
   },
   methods: {
     tagSelected(tag) {

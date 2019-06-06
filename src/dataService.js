@@ -1,7 +1,7 @@
 import axios from 'axios'
 // If dev local, send request to lambda server, in prod, root domain
 const $axios = axios.create({
-  baseURL: '/airtable',
+  baseURL: '/.netlify/functions',
   timeout: 10000 // 10 seconds
 })
 
@@ -17,7 +17,7 @@ $axios.interceptors.response.use(
 
 export default {
   fetchRecords() {
-    return $axios.get().then(response => {
+    return $axios.get('airtable').then(response => {
       return response.data
     })
   }
