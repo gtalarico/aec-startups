@@ -2,9 +2,10 @@ const zlib = require('zlib')
 const Airtable = require('airtable')
 
 exports.handler = function(event, context, callback) {
-  const acceptsGzip = event.headers['Accept-Encoding']
-    ? event.headers['Accept-Encoding'].contains('gzip')
-    : false
+  // const acceptsGzip = event.headers['Accept-Encoding']
+  //   ? event.headers['Accept-Encoding'].contains('gzip')
+  //   : false
+  const acceptsGzip = false
 
   Airtable.configure({
     endpointUrl: 'https://api.airtable.com',
