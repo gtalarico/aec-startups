@@ -9,7 +9,6 @@
       :card-id="idFromTitle(entry.title)"
       @click="$router.push({ path: `#${idFromTitle(entry.title)}` })"
     />
-
   </main>
 </template>
 

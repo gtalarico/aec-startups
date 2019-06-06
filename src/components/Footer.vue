@@ -1,12 +1,13 @@
 <template>
   <div class="footer container-fluid py-4 text-center">
     <!-- TWITTER FOLLOW -->
-      Follow <a
-        class="twitter-follow-button text-center"
-        href="https://twitter.com/aec_startups?ref_src=twsrc%5Etfw"
-        data-show-count="false"
-        >@aec_startups</a
-      >
+    Follow
+    <a
+      class="twitter-follow-button text-center"
+      href="https://twitter.com/aec_startups?ref_src=twsrc%5Etfw"
+      data-show-count="false"
+      >@aec_startups</a
+    >
     <!-- TWITTER -->
     <hr />
     <p class="text-muted font-italic">
