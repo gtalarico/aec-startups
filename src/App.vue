@@ -33,7 +33,7 @@ import Nav from '@/components/Nav.vue'
 import Overlay from '@/components/Overlay.vue'
 import Grid from '@/components/Grid.vue'
 import Footer from '@/components/Footer.vue'
-import dataService from '@/dataService'
+import lambdaService from '@/lambdaService'
 
 export default {
   components: {
@@ -60,7 +60,7 @@ export default {
     }
   },
   created() {
-    dataService
+    lambdaService
       .fetchRecords()
       .then(response => {
         this.startups = response.records
