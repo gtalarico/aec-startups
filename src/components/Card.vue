@@ -30,6 +30,8 @@
 <script>
 export default {
   name: 'Card',
+  // NOTE: If new fields are added this can break
+  // TODO: Improve props validation
   props: {
     cardId: {
       type: String,

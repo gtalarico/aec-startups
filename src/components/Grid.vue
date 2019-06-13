@@ -55,7 +55,7 @@ export default {
     initGrid() {
       this.magicGrid = new MagicGrid({
         container: this.$el,
-        items: this.startups.length,
+        items: this.startups.length + 2,
         animate: true,
         gutter: 20
         // useMin: true
