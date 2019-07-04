@@ -32,4 +32,4 @@ $ yarn serve
 $ yarn serve:lambda
 ```
 
-Environment variable with `AIRTABLE_KEY` that can access the base must be available
+Environment variable with `AIRTABLE_API_KEY` that can access the base must be available

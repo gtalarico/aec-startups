@@ -1,12 +1,13 @@
 const Airtable = require('airtable')
 
+Airtable.configure({
+  // AIRTABLE_API_URL="https://d2j5hchu5g3uxq.cloudfront.net"
+  endpointUrl: process.env.AIRTABLE_API_URL,
+  apiKey: process.env.AIRTABLE_API_KEY
+})
+const base = Airtable.base('appNtnZ99fkL1cByn')
+
 exports.handler = function(event, context, callback) {
-  Airtable.configure({
-    endpointUrl: 'https://d2j5hchu5g3uxq.cloudfront.net',
-    apiKey: process.env.AIRTABLE_KEY
-    // allowUnauthorizedSsl: true
-  })
-  const base = Airtable.base('appNtnZ99fkL1cByn')
   const allRecords = []
   base('entries')
     .select({

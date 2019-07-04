@@ -18,6 +18,7 @@
     "magic-grid": "^3.2.4",
     "netlify-lambda": "^1.4.13",
     "node-sass": "^4.12.0",
+    "request": "^2.88.0",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "vue-rellax": "^0.1.0",
