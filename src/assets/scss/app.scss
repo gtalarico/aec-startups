@@ -58,6 +58,7 @@ a:hover {
   }
 
   .card-text,
+  .card-location,
   .card-body a,
   .card .list-group li
   {
@@ -65,5 +66,9 @@ a:hover {
     .label {
       display: block;
       font-weight: 700;
+    }
+    &.location {
+      margin-top: -12px;
+      font-size: 0.7rem;
     }
   }
