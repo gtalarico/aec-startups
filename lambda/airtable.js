@@ -31,7 +31,7 @@ exports.handler = function(event, context, callback) {
             body: body,
             headers: {
               'content-type': 'application/json',
-              'cache-control': 'Cache-Control: max-age=300, public'
+              'cache-control': 'Cache-Control: max-age=60, public'
             }
           }
           callback(null, response)
