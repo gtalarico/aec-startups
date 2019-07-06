@@ -9,11 +9,15 @@
     <div v-else class="card-img-top no-logo" alt="Logo" />
     <div class="card-body">
       <h5 class="card-title">{{ title }}</h5>
+      <p class="card-text text-muted location">
+        <em>{{ location }}</em>
+      </p>
+
       <p class="card-text">
         {{ description }}
       </p>
-    </div>
-    <div class="card-body">
+      <p class=""></p>
+
       <a :href="website" target="blank" class="card-link">Website</a>
       <a v-if="crunchbase" :href="crunchbase" target="blank" class="card-link"
         >Crunchbase</a
@@ -30,46 +34,18 @@
 <script>
 export default {
   name: 'Card',
-  // NOTE: If new fields are added this can break
-  // TODO: Improve props validation
-  props: {
-    cardId: {
-      type: String,
-      default: ''
-    },
-    title: {
-      type: String,
-      default: ''
-    },
-    description: {
-      type: String,
-      default: ''
-    },
-    website: {
-      type: String,
-      default: ''
-    },
-    image: {
-      type: String,
-      default: ''
-    },
-    crunchbase: {
-      type: String,
-      default: ''
-    },
-    funding: {
-      type: String,
-      default: ''
-    },
-    tags: {
-      type: Array,
-      default: () => []
-    },
-    industries: {
-      type: Array,
-      default: () => []
-    }
-  },
+  props: [
+    'cardId',
+    'title',
+    'description',
+    'website',
+    'image',
+    'crunchbase',
+    'funding',
+    'tags',
+    'industries',
+    'location'
+  ],
   mounted() {}
 }
 </script>
