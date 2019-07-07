@@ -1,6 +1,6 @@
 <template>
   <div class="page-overlay">
-    <div v-rellax="{ speed: -4 }">
+    <!-- <div v-rellax="{ speed: -4 }">
       <img id="overlay-asteroid" src="@/assets/imgs/icons8-asteroid-80.png" />
     </div>
     <div v-rellax="{ speed: 2 }">
@@ -20,7 +20,7 @@
     </div>
     <div v-rellax="{ speed: -1 }">
       <img id="overlay-mind-map" src="@/assets/imgs/icons8-mind-map-64.png" />
-    </div>
+    </div> -->
   </div>
 </template>
 <script>

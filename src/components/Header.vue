@@ -1,11 +1,18 @@
 <template>
-  <div class="container header">
-    <h2 class="text-center logo">
-      Aec Startups
-    </h2>
-    <p class="text-center lead text-secondary logo-subtitle">
-      Shiny Startups in the AEC Space
-    </p>
+  <div
+    class="container-fluid pb-3 d-flex flex-row justify-content-between align-items-baseline"
+  >
+    <div>
+      <h2 class=" logo">
+        Aec Startups
+      </h2>
+      <p class=" logo-subtitle">
+        Shiny Startups in the AEC Space
+      </p>
+    </div>
+    <h1 class="mr-3">
+      <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank">+</a>
+    </h1>
   </div>
 </template>
 <script>
@@ -39,7 +46,6 @@ export default {
 
 .logo-subtitle {
   font-size: 0.9rem;
-  font-weight: 400;
-  color: $primary;
+  margin-top: -0.5rem;
 }
 </style>

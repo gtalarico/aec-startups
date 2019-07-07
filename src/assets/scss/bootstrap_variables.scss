@@ -1,5 +1,4 @@
 // https://getbootstrap.com/docs/4.0/getting-started/theming/
-$grid-columns:  12;
 
 // Background
 $body-color: #202025;
@@ -7,9 +6,9 @@ $body-color: #202025;
 // Background
 $body-bg: #f6f6f6;
 
-// linear-gradient(15deg, #14af83, #15b89a);
 $font-family-sans-serif: 'Roboto', sans-serif;
-$primary:  rgb(22, 185, 145);
+$primary: #d1689f;
+$warning:  rgb(223, 70, 0);
 $theme-colors: (
     "primary": $primary,
     "secondary": #5573ac,
