@@ -4,15 +4,15 @@
   >
     <div>
       <h2 class=" logo">
-        Aec Startups
+        aec startups
       </h2>
       <p class=" logo-subtitle">
-        Shiny Startups in the AEC Space
+        <em>shiny startups in the aec space</em>
       </p>
     </div>
-    <h1 class="mr-3">
+    <p class="mr-3 btn-plus">
       <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank">+</a>
-    </h1>
+    </p>
   </div>
 </template>
 <script>
@@ -28,7 +28,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @import '@/assets/scss/app.scss';
 
 .header {
@@ -39,13 +39,27 @@ export default {
 .logo {
   font-family: ABeeZee;
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
 }
 
 .logo-subtitle {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   margin-top: -0.5rem;
+  color: #666;
+}
+
+.btn-plus {
+  background-color: $primary;
+  border-radius: 5rem;
+  // padding-left: 5px;
+  padding: 0 0.5rem;
+  a {
+    color: white !important;
+    font-size: 3rem;
+    line-height: 3rem;
+    text-align: center;
+  }
 }
 </style>

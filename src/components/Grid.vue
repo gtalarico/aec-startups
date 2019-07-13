@@ -1,7 +1,7 @@
 <template>
   <main
     id="grid"
-    class="d-flex flex-wrap justify-content-md-start justify-content-center"
+    class="d-flex flex-wrap justify-content-md-center justify-content-center"
   >
     <card
       v-for="(entry, i) in startups"
