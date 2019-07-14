@@ -1,16 +1,20 @@
 <template>
-  <main
-    id="grid"
-    class="d-flex flex-wrap justify-content-md-center justify-content-center"
-  >
-    <card
-      v-for="(entry, i) in startups"
-      :key="i"
-      v-bind="entry"
-      :card-id="idFromTitle(entry.title)"
-      @click="$router.push({ path: `#${idFromTitle(entry.title)}` })"
-    />
-  </main>
+  <div id="grid">
+    <transition-group
+      name="list-complete"
+      tag="div"
+      class="box-entry-list d-flex flex-wrap justify-content-md-center justify-content-center"
+    >
+      <card
+        v-for="entry in startups"
+        v-bind:key="entry.title"
+        v-bind="entry"
+        class="list-complete-item"
+        :card-id="idFromTitle(entry.title)"
+        @click="$router.push({ path: `#${idFromTitle(entry.title)}` })"
+      />
+    </transition-group>
+  </div>
 </template>
 
 <script>
@@ -30,13 +34,6 @@ export default {
     return {}
   },
   computed: {},
-  watch: {
-    startups() {
-      this.$nextTick(() => {
-        // this.setupGrid()
-      })
-    }
-  },
   mounted() {
     this.setupGrid()
   },
@@ -65,15 +62,24 @@ export default {
 </script>
 
 <style lang="scss">
-#grid {
+// Adds an empty content at end of box-entry-list to
+// keep last centered box aligned left
+.box-entry-list:last-child::after {
   content: '';
-  flex: auto;
+  width: 31rem;
 }
-// .grid {
-//   transition: opacity 200ms ease-in;
-//   opacity: 0;
-//   &.grid-ready {
-//     opacity: 1;
-//   }
-// }
+
+.list-complete-item {
+  transition: all 1s;
+  display: inline-block;
+  margin-right: 10px;
+}
+.list-complete-enter, .list-complete-leave-to
+/* .list-complete-leave-active below version 2.1.8 */ {
+  opacity: 0;
+  transform: translateY(30px);
+}
+.list-complete-leave-active {
+  position: absolute;
+}
 </style>

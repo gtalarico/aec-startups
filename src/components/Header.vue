@@ -10,9 +10,9 @@
         <em>shiny startups in the aec space</em>
       </p>
     </div>
-    <p class="mr-3 btn-plus">
+    <h1 class="mr-3">
       <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank">+</a>
-    </p>
+    </h1>
   </div>
 </template>
 <script>
@@ -48,18 +48,5 @@ export default {
   font-size: 0.8rem;
   margin-top: -0.5rem;
   color: #666;
-}
-
-.btn-plus {
-  background-color: $primary;
-  border-radius: 5rem;
-  // padding-left: 5px;
-  padding: 0 0.5rem;
-  a {
-    color: white !important;
-    font-size: 3rem;
-    line-height: 3rem;
-    text-align: center;
-  }
 }
 </style>

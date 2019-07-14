@@ -60,6 +60,16 @@ export default {
 
 <style lang="scss">
 .box-entry {
+  display: block;
+  margin: 0 1.5rem 1.25rem 0;
+  border: 1px solid #dedede;
+  border-radius: 10px;
+  overflow: hidden;
+
+  font-size: 0.65rem;
+
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
+  background-color: white;
   .info-box {
     padding: 0.5rem 0.75rem;
   }
@@ -72,19 +82,10 @@ export default {
     border-color: #999;
     box-shadow: 1px 5px 7px 0 rgba(0, 0, 0, 0.2);
   }
-  display: block;
-  border: 1px solid #dedede;
-  border-radius: 10px;
-  font-size: 0.65rem;
-  overflow: hidden;
 
   a {
-    font-weight: 700;
+    font-weight: 400;
   }
-
-  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
-  margin: 0 1.5rem 1.25rem 0;
-  background-color: white;
 
   .logo {
     img {
@@ -101,7 +102,7 @@ export default {
   }
 
   .info-box {
-    width: 16rem;
+    width: 14rem;
 
     .title {
       font-size: 0.9rem;
