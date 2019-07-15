@@ -1,5 +1,8 @@
 <template>
   <div class="container-fluid sidebar">
+    <div class="search-section">
+      <search-box @search-input="handleInput" />
+    </div>
     <p class="pills-header">
       <a @click="sidebarOpen = !sidebarOpen">{{
         sidebarOpen ? 'Tags -' : 'Tags +'
@@ -7,7 +10,7 @@
       <span
         class="btn-clear"
         v-show="selectedTags.length > 0"
-        @click="doSelectTag(null)"
+        @click="handleTagClicked(null)"
         ><a href="#">Clear</a></span
       >
     </p>
@@ -17,7 +20,7 @@
         v-for="(tag, i) in tags"
         :key="i"
         :class="isSelected(tag) ? 'selected' : ''"
-        @click="doSelectTag(tag)"
+        @click="handleTagClicked(tag)"
       >
         <a href="#">{{ tag }}</a>
       </div>
@@ -35,11 +38,11 @@
   </div>
 </template>
 <script>
-// // import SocialNews from '@/components/SocialNews'
+import SearchBox from '@/components/SearchBox'
 
 export default {
   components: {
-    // 'social-news': SocialNews
+    'search-box': SearchBox
   },
   props: {
     startups: {
@@ -72,8 +75,11 @@ export default {
     isSelected(tag) {
       return this.selectedTags.includes(tag)
     },
-    doSelectTag(tag) {
+    handleTagClicked(tag) {
       this.$emit('tag-selected', tag)
+    },
+    handleInput(query) {
+      this.$emit('search-input', query)
     }
   }
 }
@@ -130,5 +136,8 @@ export default {
   &.selected a {
     border-bottom: 2px solid #333;
   }
+}
+.search-section {
+  margin-bottom: 2rem;
 }
 </style>

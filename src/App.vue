@@ -7,7 +7,8 @@
           <Nav
             :startups="startups"
             :selected-tags="selectedTags"
-            @tag-selected="tagSelected"
+            @tag-selected="handleTagClicked"
+            @search-input="handleInput"
           />
         </div>
         <div class="col">
@@ -55,19 +56,24 @@ export default {
     return {
       startups: [],
       selectedTags: [],
-      error: null
+      error: null,
+      searchQuery: ''
     }
   },
   computed: {
     filteredStartups() {
-      if (this.selectedTags.length === 0) return this.startups
-      else
-        return this.startups
-          .filter(f => f.tags.some(t => this.selectedTags.includes(t)))
-          .sort((a, b) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0))
+      const hasTagSelected = this.selectedTags.length > 0
+      return this.startups
+        .filter(e =>
+          !hasTagSelected ? e : e.tags.some(t => this.selectedTags.includes(t))
+        )
+        .filter(e => this.matchesSearch(e))
+        .sort((a, b) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0))
+      // }
     }
   },
   created() {
+    // Fetch Records
     lambdaService
       .fetchRecords()
       .then(response => {
@@ -80,7 +86,16 @@ export default {
       })
   },
   methods: {
-    tagSelected(tag) {
+    matchesSearch(entry) {
+      // debugger
+      // console.log(entry)
+      // return true
+      return entry.title.toLowerCase().includes(this.searchQuery.toLowerCase())
+    },
+    handleInput(query) {
+      this.searchQuery = query
+    },
+    handleTagClicked(tag) {
       if (tag === null) {
         this.selectedTags = []
         return
