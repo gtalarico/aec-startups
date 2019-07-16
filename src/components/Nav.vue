@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid sidebar">
+  <div class="container-fluid pr-0 sidebar">
     <div class="search-section">
       <search-box @search-input="handleInput" />
     </div>
@@ -25,7 +25,6 @@
         <a href="#">{{ tag }}</a>
       </div>
     </div>
-    <!-- <social-news class="mt-5" /> -->
     <hr />
     <p class="sidebar-link">
       <!-- <img src="@/assets/imgs/twitter.svg" /> -->
@@ -89,7 +88,7 @@ export default {
 @import '@/assets/scss/app.scss';
 
 .sidebar {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
 }
 .sidebar-link {
   margin-bottom: 0.3rem;
@@ -107,7 +106,7 @@ export default {
   align-items: center;
   .btn-clear {
     margin-left: 1rem;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 }
 

@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <Header />
       <div class="row">
-        <div class="col-sm-3 col-md-3 col-lg-3">
+        <div class="col-sm-3 col-md-3 col-lg-3 col-xl-2 pr-0">
           <Nav
             :startups="startups"
             :selected-tags="selectedTags"
@@ -87,9 +87,6 @@ export default {
   },
   methods: {
     matchesSearch(entry) {
-      // debugger
-      // console.log(entry)
-      // return true
       return entry.title.toLowerCase().includes(this.searchQuery.toLowerCase())
     },
     handleInput(query) {

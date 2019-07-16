@@ -5,8 +5,11 @@
     @click="$emit('click')"
   >
     <div class="d-flex flex-row align-items-top">
-      <div class="logo">
-        <img :src="image" :class="{ 'no-logo': !image }" alt="Logo" />
+      <div class="logo d-flex align-items-center justify-content-center">
+        <div v-show="!imageReady" class="spinner-grow" role="status">
+          <span class="sr-only">Loading...</span>
+        </div>
+        <img :id="cardId" v-show="imageReady" />
       </div>
       <div class="info-box">
         <p class="title">{{ title }}</p>
@@ -54,7 +57,24 @@ export default {
     'industries',
     'location'
   ],
-  mounted() {}
+  data: () => {
+    return {
+      imageReady: false
+    }
+  },
+  mounted() {
+    const cardId = this.cardId
+    const img = new Image()
+    img.onload = () => {
+      const i = document.getElementById(cardId)
+      i.src = img.src
+      this.imageReady = true
+    }
+    img.onerror = () => {
+      this.imageReady = true
+    }
+    img.src = this.image
+  }
 }
 </script>
 
@@ -63,10 +83,10 @@ export default {
   display: block;
   margin: 0 1.5rem 1.25rem 0;
   border: 1px solid #dedede;
-  border-radius: 10px;
+  border-radius: 4px;
   overflow: hidden;
 
-  font-size: 0.65rem;
+  font-size: 0.75rem;
 
   box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
   background-color: white;
@@ -88,11 +108,13 @@ export default {
   }
 
   .logo {
+    width: 10rem;
+    height: 10rem;
     img {
-      object-fit: cover;
-      object-position: center;
       width: 10rem;
       height: 10rem;
+      object-fit: cover;
+      object-position: center;
       // border-bottom: 1px solid #eee;
 
       &.no-logo {
@@ -105,14 +127,14 @@ export default {
     width: 14rem;
 
     .title {
-      font-size: 0.9rem;
+      font-size: 1rem;
       margin-bottom: 0;
     }
 
     .location {
       padding-top: 0;
       margin-bottom: 0.5rem;
-      font-size: 0.6rem;
+      font-size: 0.7rem;
       color: #444;
     }
   }

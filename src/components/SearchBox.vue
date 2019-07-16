@@ -1,13 +1,16 @@
 <template>
-  <input
-    contenteditable="true"
-    type="text"
-    class="search-box"
-    aria-describedby="search-box"
-    placeholder="Search"
-    @input="handleInput"
-    v-model="query"
-  />
+  <div class="d-flex">
+    <input
+      contenteditable="true"
+      type="text"
+      class="search-box"
+      aria-describedby="search-box"
+      placeholder="Search"
+      @input="handleInput"
+      v-model="query"
+    />
+    <span v-show="query" class="btn-close" @click="clearQuery()"></span>
+  </div>
 </template>
 <script>
 import { debounce } from '@/utils'
@@ -21,19 +24,21 @@ export default {
     }
   },
   computed: {},
+  watch: {
+    query() {
+      const el = document.querySelector('.search-box')
+      this.$nextTick(() => this.resizeElement(el))
+    }
+  },
   methods: {
-    handleInput: debounce(
-      function(event) {
-        const el = event.target
-        const inputText = el.value
-        this.$emit('search-input', inputText)
-      },
-      400,
-      false,
-      function(event) {
-        this.resizeElement(event.target)
-      }
-    ),
+    clearQuery() {
+      this.query = ''
+    },
+    handleInput: debounce(function(event) {
+      const el = event.target
+      const inputText = el.value
+      this.$emit('search-input', inputText)
+    }, 400),
     resizeElement(el) {
       const inputText = el.value
       this.getTextWidth(inputText)
@@ -49,13 +54,15 @@ export default {
         document.getElementById('fake-text-canvas') ||
         document.createElement('canvas')
       canvas.id = 'fake-canvas'
-      var context = canvas.getContext('2d')
+      const context = canvas.getContext('2d')
       const fontFamily = window
         .getComputedStyle(canvas, null)
         .getPropertyValue('font-family')
       context.font = fontFamily
-      var metrics = context.measureText(text)
-      return metrics.width + 3 + text.length * 0.75
+      const metrics = context.measureText(text)
+      const baseWidth = metrics.width + 5
+      return baseWidth + text.length * 1.25
+      // return baseWidth + text.length * 0.75
     }
   }
 }
@@ -72,6 +79,42 @@ export default {
 
 .search-box:not(:placeholder-shown) {
   border-bottom: 2px solid #333;
+}
+
+.btn-close {
+  margin-top: 1px;
+  margin-left: 0.5rem;
+  position: relative;
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  opacity: 1;
+  cursor: pointer;
+  &:hover {
+    &::before,
+    &::after {
+      background: $primary;
+    }
+  }
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    background: black;
+  }
+  &::before {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  &::after {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
 }
 
 ::-webkit-input-placeholder {

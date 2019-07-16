@@ -39,7 +39,7 @@ export default {
 .logo {
   font-family: ABeeZee;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 2.25rem;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
 }
