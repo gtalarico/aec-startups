@@ -10,7 +10,7 @@
         <em>shiny startups in the aec space</em>
       </p>
     </div>
-    <h1 class="mr-3">
+    <h1 class="mr-2">
       <a href="https://airtable.com/shrLpxcEdauXQcecZ" target="blank">+</a>
     </h1>
   </div>

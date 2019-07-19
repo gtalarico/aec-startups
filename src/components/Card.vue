@@ -1,6 +1,6 @@
 <template>
   <div
-    class="box-entry mb-4"
+    class="box-entry"
     :class="{ 'box-entry-selected': $route.hash.includes(cardId) }"
     @click="$emit('click')"
   >
@@ -14,7 +14,7 @@
       <div class="info-box">
         <p class="title">{{ title }}</p>
         <p class="location">{{ location }}</p>
-        <p>{{ description }}</p>
+        <p class="description">{{ description }}</p>
       </div>
       <div class="details-box">
         <p>
@@ -80,12 +80,11 @@ export default {
 
 <style lang="scss">
 .box-entry {
+  margin: 0 0 1.5rem 1.5rem;
   display: block;
-  margin: 0 1.5rem 1.25rem 0;
   border: 1px solid #dedede;
   border-radius: 4px;
   overflow: hidden;
-
   font-size: 0.75rem;
 
   box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
@@ -108,11 +107,11 @@ export default {
   }
 
   .logo {
-    width: 10rem;
-    height: 10rem;
+    width: 13rem;
+    height: 11rem;
     img {
-      width: 10rem;
-      height: 10rem;
+      width: 100%;
+      height: 100%;
       object-fit: cover;
       object-position: center;
       // border-bottom: 1px solid #eee;
@@ -124,7 +123,7 @@ export default {
   }
 
   .info-box {
-    width: 14rem;
+    width: 16rem;
 
     .title {
       font-size: 1rem;
@@ -136,6 +135,10 @@ export default {
       margin-bottom: 0.5rem;
       font-size: 0.7rem;
       color: #444;
+    }
+
+    .description {
+      margin-bottom: 0;
     }
   }
 

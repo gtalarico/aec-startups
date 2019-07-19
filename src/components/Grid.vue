@@ -66,13 +66,12 @@ export default {
 // keep last centered box aligned left
 .box-entry-list:last-child::after {
   content: '';
-  width: 31rem;
+  width: 36.5rem;
 }
 
 .list-complete-item {
   transition: all 1s;
   display: inline-block;
-  margin-right: 10px;
 }
 .list-complete-enter, .list-complete-leave-to
 /* .list-complete-leave-active below version 2.1.8 */ {

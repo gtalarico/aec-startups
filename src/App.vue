@@ -87,7 +87,11 @@ export default {
   },
   methods: {
     matchesSearch(entry) {
-      return entry.title.toLowerCase().includes(this.searchQuery.toLowerCase())
+      return entry.title
+        .toLowerCase()
+        .concat(entry.description)
+        .toLowerCase()
+        .includes(this.searchQuery.toLowerCase())
     },
     handleInput(query) {
       this.searchQuery = query

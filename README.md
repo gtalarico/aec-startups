@@ -33,3 +33,7 @@ $ yarn serve:lambda
 ```
 
 Environment variable with `AIRTABLE_API_KEY` that can access the base must be available
+
+# TODO
+- [ ] Include description in search
+- [ ] Fix img/box framing
