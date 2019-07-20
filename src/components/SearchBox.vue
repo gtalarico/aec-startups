@@ -1,6 +1,7 @@
 <template>
   <div class="d-flex">
     <input
+      ref="input"
       contenteditable="true"
       type="text"
       class="search-box"
@@ -33,6 +34,7 @@ export default {
   methods: {
     clearQuery() {
       this.query = ''
+      this.$emit('search-input', '')
     },
     handleInput: debounce(function(event) {
       const el = event.target
