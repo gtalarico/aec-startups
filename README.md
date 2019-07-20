@@ -14,7 +14,7 @@ The website is auto-generated from entries from [this Airtable](https://airtable
 To add a new entry just fill out [this form ](https://airtable.com/shrLpxcEdauXQcecZ).
 Once the entry is approved it will be automatically published to the website
 
-License MIT
+
 
 # Development
 
@@ -34,6 +34,5 @@ $ yarn serve:lambda
 
 Environment variable with `AIRTABLE_API_KEY` that can access the base must be available
 
-# TODO
-- [ ] Include description in search
-- [ ] Fix img/box framing
+# License
+MIT
