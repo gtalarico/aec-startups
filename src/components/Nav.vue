@@ -55,7 +55,12 @@ export default {
   },
   data() {
     return {
-      sidebarOpen: true
+      sidebarOpen: false
+    }
+  },
+  mounted() {
+    if (document.body.offsetWidth >= 822) {
+      this.sidebarOpen = true
     }
   },
   computed: {
