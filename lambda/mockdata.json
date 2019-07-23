@@ -1,0 +1,3709 @@
+{
+    "records": [
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recW0FpRZMaQv5Ble",
+            "_rawJson": {
+                "id": "recW0FpRZMaQv5Ble",
+                "fields": {
+                    "title": "3D Repo",
+                    "crunchbase": "https://www.crunchbase.com/organization/3d-repo",
+                    "description": "Cloud-Based BIM",
+                    "funding": "Seed",
+                    "image": "logos/3drepo.png",
+                    "website": "https://3drepo.com",
+                    "tags": [
+                        "web app",
+                        "issue tracking",
+                        "change management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "London, UK",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "3D Repo",
+                "crunchbase": "https://www.crunchbase.com/organization/3d-repo",
+                "description": "Cloud-Based BIM",
+                "funding": "Seed",
+                "image": "logos/3drepo.png",
+                "website": "https://3drepo.com",
+                "tags": [
+                    "web app",
+                    "issue tracking",
+                    "change management"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "London, UK",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec59zoSAR3KIT1W2",
+            "_rawJson": {
+                "id": "rec59zoSAR3KIT1W2",
+                "fields": {
+                    "title": "Acculis",
+                    "crunchbase": "https://www.crunchbase.com/organization/acculis#section-investors",
+                    "description": "BIM coordination platform",
+                    "funding": "$100K",
+                    "image": "https://dl.airtable.com/.attachmentThumbnails/b9a94408db8d5fc2df925c43b38a58f1/f7b603ee",
+                    "website": "https://www.acculistech.com/",
+                    "tags": [
+                        "construction management",
+                        "project management",
+                        "documentation",
+                        "model viewer",
+                        "asset management",
+                        "interoperability",
+                        "web app",
+                        "issue tracking"
+                    ],
+                    "industries": [
+                        "engineering",
+                        "architecture"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attk9rpMNxcFdRNZe",
+                            "url": "https://dl.airtable.com/.attachments/cf384637676ba8e90af3efe06a3e954d/b00884df/image.png",
+                            "filename": "image.png",
+                            "size": 193626,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/cd080b3db75cc777c759228e2ce5cb51/63587d25",
+                                    "width": 51,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/00d58e2fa51606ee6fc655e4e7ac4a5d/3461baea",
+                                    "width": 728,
+                                    "height": 512
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/b9a94408db8d5fc2df925c43b38a58f1/f7b603ee",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "review": "approved",
+                    "created_on": "2019-07-06T23:32:08.000Z"
+                },
+                "createdTime": "2019-07-06T23:32:08.000Z"
+            },
+            "fields": {
+                "title": "Acculis",
+                "crunchbase": "https://www.crunchbase.com/organization/acculis#section-investors",
+                "description": "BIM coordination platform",
+                "funding": "$100K",
+                "image": "https://dl.airtable.com/.attachmentThumbnails/b9a94408db8d5fc2df925c43b38a58f1/f7b603ee",
+                "website": "https://www.acculistech.com/",
+                "tags": [
+                    "construction management",
+                    "project management",
+                    "documentation",
+                    "model viewer",
+                    "asset management",
+                    "interoperability",
+                    "web app",
+                    "issue tracking"
+                ],
+                "industries": [
+                    "engineering",
+                    "architecture"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attk9rpMNxcFdRNZe",
+                        "url": "https://dl.airtable.com/.attachments/cf384637676ba8e90af3efe06a3e954d/b00884df/image.png",
+                        "filename": "image.png",
+                        "size": 193626,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/cd080b3db75cc777c759228e2ce5cb51/63587d25",
+                                "width": 51,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/00d58e2fa51606ee6fc655e4e7ac4a5d/3461baea",
+                                "width": 728,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b9a94408db8d5fc2df925c43b38a58f1/f7b603ee",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "review": "approved",
+                "created_on": "2019-07-06T23:32:08.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recIeBNfsqnLcMklx",
+            "_rawJson": {
+                "id": "recIeBNfsqnLcMklx",
+                "fields": {
+                    "title": "ALICE Technologies",
+                    "crunchbase": "https://www.crunchbase.com/organization/alice-technologies",
+                    "description": "ALICE leverages AI to speed up the planning process, reduce project schedules, and resolve schedule delays.",
+                    "funding": "Seed $2.1M",
+                    "image": "https://dl.airtable.com/.attachments/17236d0f3903c1b4eeb55c92eaebcbe0/f3b924d6/alice.png",
+                    "website": "https://alicetechnologies.com/",
+                    "tags": [
+                        "web app",
+                        "claims AI"
+                    ],
+                    "industries": [
+                        "construction",
+                        "engineering"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attq8hhVUY6dnsJSu",
+                            "url": "https://dl.airtable.com/.attachments/17236d0f3903c1b4eeb55c92eaebcbe0/f3b924d6/alice.png",
+                            "filename": "alice.png",
+                            "size": 32089,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/88f55c6d1910c02e25f26cc3c1a896bc/ec96db15",
+                                    "width": 75,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/cb8e4021f02d7fd0474076adef8552d0/37c7e306",
+                                    "width": 930,
+                                    "height": 448
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/d71ebe91bd82c407c735e33509bd9b5f/9e740c4a",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Menlo Park, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-06T13:04:56.000Z"
+                },
+                "createdTime": "2019-06-06T13:04:56.000Z"
+            },
+            "fields": {
+                "title": "ALICE Technologies",
+                "crunchbase": "https://www.crunchbase.com/organization/alice-technologies",
+                "description": "ALICE leverages AI to speed up the planning process, reduce project schedules, and resolve schedule delays.",
+                "funding": "Seed $2.1M",
+                "image": "https://dl.airtable.com/.attachments/17236d0f3903c1b4eeb55c92eaebcbe0/f3b924d6/alice.png",
+                "website": "https://alicetechnologies.com/",
+                "tags": [
+                    "web app",
+                    "claims AI"
+                ],
+                "industries": [
+                    "construction",
+                    "engineering"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attq8hhVUY6dnsJSu",
+                        "url": "https://dl.airtable.com/.attachments/17236d0f3903c1b4eeb55c92eaebcbe0/f3b924d6/alice.png",
+                        "filename": "alice.png",
+                        "size": 32089,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/88f55c6d1910c02e25f26cc3c1a896bc/ec96db15",
+                                "width": 75,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/cb8e4021f02d7fd0474076adef8552d0/37c7e306",
+                                "width": 930,
+                                "height": 448
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/d71ebe91bd82c407c735e33509bd9b5f/9e740c4a",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Menlo Park, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-06T13:04:56.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recV3Cn9cH8OQoH3M",
+            "_rawJson": {
+                "id": "recV3Cn9cH8OQoH3M",
+                "fields": {
+                    "title": "Archilogic",
+                    "crunchbase": "https://www.crunchbase.com/organization/archilogic",
+                    "description": "Archilogic's platform empowers users to easily create, edit, and share 3D content for interiors.",
+                    "funding": "Seed",
+                    "image": "logos/archilogic.png",
+                    "website": "https://archilogic.com/",
+                    "tags": [
+                        "model viewer"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Zurich, Switzerland",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Archilogic",
+                "crunchbase": "https://www.crunchbase.com/organization/archilogic",
+                "description": "Archilogic's platform empowers users to easily create, edit, and share 3D content for interiors.",
+                "funding": "Seed",
+                "image": "logos/archilogic.png",
+                "website": "https://archilogic.com/",
+                "tags": [
+                    "model viewer"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Zurich, Switzerland",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recQWabhtivDK401T",
+            "_rawJson": {
+                "id": "recQWabhtivDK401T",
+                "fields": {
+                    "title": "Archilyse",
+                    "crunchbase": "https://www.crunchbase.com/organization/archilyse",
+                    "description": "Holistic numeric architecture analysis as an easy to use API solution",
+                    "funding": "Seed",
+                    "image": "logos/archilyse.png",
+                    "website": "https://www.archilyse.com/",
+                    "tags": [
+                        "analysis"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Zurich, Switzerland",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Archilyse",
+                "crunchbase": "https://www.crunchbase.com/organization/archilyse",
+                "description": "Holistic numeric architecture analysis as an easy to use API solution",
+                "funding": "Seed",
+                "image": "logos/archilyse.png",
+                "website": "https://www.archilyse.com/",
+                "tags": [
+                    "analysis"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Zurich, Switzerland",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recRaHouG8iFQuCPC",
+            "_rawJson": {
+                "id": "recRaHouG8iFQuCPC",
+                "fields": {
+                    "title": "Archistar",
+                    "description": "Archistar.ai empowers property developers, governments and agents with next-generation intelligence in real-time.",
+                    "image": "logos/archistar.png",
+                    "website": "https://www.archistar.ai",
+                    "tags": [
+                        "generative",
+                        "spatial data",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Sydney, Australia",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Archistar",
+                "description": "Archistar.ai empowers property developers, governments and agents with next-generation intelligence in real-time.",
+                "image": "logos/archistar.png",
+                "website": "https://www.archistar.ai",
+                "tags": [
+                    "generative",
+                    "spatial data",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Sydney, Australia",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recT70eCSmbLZBWR8",
+            "_rawJson": {
+                "id": "recT70eCSmbLZBWR8",
+                "fields": {
+                    "title": "AVAIL",
+                    "crunchbase": "https://www.crunchbase.com/organization/avail-3c85",
+                    "description": "BIM Content Management Platform",
+                    "funding": "Private",
+                    "image": "https://dl.airtable.com/.attachmentThumbnails/2184292930427ad9a81ad4d3a88015c1/0de32968",
+                    "website": "https://getavail.com",
+                    "tags": [
+                        "data management",
+                        "documentation"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering",
+                        "facilities management",
+                        "real estate"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attZTNO8CaxhNm2Bc",
+                            "url": "https://dl.airtable.com/.attachments/66d412c0706b3032faaead0ff0543c2c/5ab426ef/avail.png",
+                            "filename": "avail.png",
+                            "size": 89953,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/cf8ccda3f323d37e50b4bd760171ee28/083ff0c0",
+                                    "width": 68,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/411c0b76f69b4e2265aa49392a7e253f/536e488c",
+                                    "width": 457,
+                                    "height": 241
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/2184292930427ad9a81ad4d3a88015c1/0de32968",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Lexington, KY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-18T17:27:21.000Z"
+                },
+                "createdTime": "2019-06-18T17:27:21.000Z"
+            },
+            "fields": {
+                "title": "AVAIL",
+                "crunchbase": "https://www.crunchbase.com/organization/avail-3c85",
+                "description": "BIM Content Management Platform",
+                "funding": "Private",
+                "image": "https://dl.airtable.com/.attachmentThumbnails/2184292930427ad9a81ad4d3a88015c1/0de32968",
+                "website": "https://getavail.com",
+                "tags": [
+                    "data management",
+                    "documentation"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering",
+                    "facilities management",
+                    "real estate"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attZTNO8CaxhNm2Bc",
+                        "url": "https://dl.airtable.com/.attachments/66d412c0706b3032faaead0ff0543c2c/5ab426ef/avail.png",
+                        "filename": "avail.png",
+                        "size": 89953,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/cf8ccda3f323d37e50b4bd760171ee28/083ff0c0",
+                                "width": 68,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/411c0b76f69b4e2265aa49392a7e253f/536e488c",
+                                "width": 457,
+                                "height": 241
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2184292930427ad9a81ad4d3a88015c1/0de32968",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Lexington, KY, USA",
+                "review": "approved",
+                "created_on": "2019-06-18T17:27:21.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec7Hk3H2Mpm75dJb",
+            "_rawJson": {
+                "id": "rec7Hk3H2Mpm75dJb",
+                "fields": {
+                    "title": "BIM Track",
+                    "crunchbase": "https://www.crunchbase.com/organization/bim-track",
+                    "description": "The communication platform for better BIM coordination. Features bi-directional issue tracking between major software platforms to make it easier to raise and resolve questions, comments, and other issues.",
+                    "image": "logos/bimtrack.png",
+                    "website": "https://bimtrack.co",
+                    "tags": [
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering"
+                    ],
+                    "location": "Quebec, Quebec, Canada",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "BIM Track",
+                "crunchbase": "https://www.crunchbase.com/organization/bim-track",
+                "description": "The communication platform for better BIM coordination. Features bi-directional issue tracking between major software platforms to make it easier to raise and resolve questions, comments, and other issues.",
+                "image": "logos/bimtrack.png",
+                "website": "https://bimtrack.co",
+                "tags": [
+                    "web app"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering"
+                ],
+                "location": "Quebec, Quebec, Canada",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recl57LyTwkt5OfVN",
+            "_rawJson": {
+                "id": "recl57LyTwkt5OfVN",
+                "fields": {
+                    "title": "Blokable",
+                    "description": "Blokable seeks to unlock the efficiencies of technological and financial system advances and create a process that turns real estate development into a transparent and easily managed service",
+                    "image": "logos/blockable.png",
+                    "website": "https://blokable.com",
+                    "tags": [
+                        "prefabrication",
+                        "housing"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "Vancouver, BC, Canada",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Blokable",
+                "description": "Blokable seeks to unlock the efficiencies of technological and financial system advances and create a process that turns real estate development into a transparent and easily managed service",
+                "image": "logos/blockable.png",
+                "website": "https://blokable.com",
+                "tags": [
+                    "prefabrication",
+                    "housing"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "Vancouver, BC, Canada",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recKV05isWXsvi9Kh",
+            "_rawJson": {
+                "id": "recKV05isWXsvi9Kh",
+                "fields": {
+                    "title": "Bricks",
+                    "crunchbase": "https://www.crunchbase.com/organization/openbricks-io",
+                    "description": "The agile collaborative app for Architecture & construction",
+                    "funding": "Private",
+                    "image": "https://dl.airtable.com/.attachmentThumbnails/4ede95ea7e3d1deabe662b5ddeeee676/99ecf636",
+                    "website": "https://www.bricksapp.io",
+                    "tags": [
+                        "project management",
+                        "construction management",
+                        "issue tracking",
+                        "web app",
+                        "asset management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering",
+                        "real estate"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "att8fkK0J1UwySkj5",
+                            "url": "https://dl.airtable.com/.attachments/e9f1e05fafc24e6e893f1c16c81d4ada/efc6fabf/bricks.png",
+                            "filename": "bricks.png",
+                            "size": 72307,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/479481c3854b8ab100e0170952ca84bf/73623f33",
+                                    "width": 67,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/486b1697adf43811d14d9a9af8372126/c70b5ffd",
+                                    "width": 600,
+                                    "height": 324
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/4ede95ea7e3d1deabe662b5ddeeee676/99ecf636",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Paris, France",
+                    "review": "approved",
+                    "created_on": "2019-06-21T12:01:30.000Z"
+                },
+                "createdTime": "2019-06-21T12:01:30.000Z"
+            },
+            "fields": {
+                "title": "Bricks",
+                "crunchbase": "https://www.crunchbase.com/organization/openbricks-io",
+                "description": "The agile collaborative app for Architecture & construction",
+                "funding": "Private",
+                "image": "https://dl.airtable.com/.attachmentThumbnails/4ede95ea7e3d1deabe662b5ddeeee676/99ecf636",
+                "website": "https://www.bricksapp.io",
+                "tags": [
+                    "project management",
+                    "construction management",
+                    "issue tracking",
+                    "web app",
+                    "asset management"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering",
+                    "real estate"
+                ],
+                "image_embed": [
+                    {
+                        "id": "att8fkK0J1UwySkj5",
+                        "url": "https://dl.airtable.com/.attachments/e9f1e05fafc24e6e893f1c16c81d4ada/efc6fabf/bricks.png",
+                        "filename": "bricks.png",
+                        "size": 72307,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/479481c3854b8ab100e0170952ca84bf/73623f33",
+                                "width": 67,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/486b1697adf43811d14d9a9af8372126/c70b5ffd",
+                                "width": 600,
+                                "height": 324
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4ede95ea7e3d1deabe662b5ddeeee676/99ecf636",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Paris, France",
+                "review": "approved",
+                "created_on": "2019-06-21T12:01:30.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recMTAGmNFaqJm4Ci",
+            "_rawJson": {
+                "id": "recMTAGmNFaqJm4Ci",
+                "fields": {
+                    "title": "Bricsys",
+                    "crunchbase": "https://www.crunchbase.com/organization/bricsys",
+                    "description": "Bricsys offers innovative solutions for 2D drafting, 3D direct modeling, sheet metal design and Building Information Modeling (BIM)",
+                    "funding": "Acquired by Hexagon",
+                    "image": "logos/bricsys.png",
+                    "website": "https://www.bricsys.com",
+                    "tags": [
+                        "desktop app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Gent, Belgium",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Bricsys",
+                "crunchbase": "https://www.crunchbase.com/organization/bricsys",
+                "description": "Bricsys offers innovative solutions for 2D drafting, 3D direct modeling, sheet metal design and Building Information Modeling (BIM)",
+                "funding": "Acquired by Hexagon",
+                "image": "logos/bricsys.png",
+                "website": "https://www.bricsys.com",
+                "tags": [
+                    "desktop app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Gent, Belgium",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec11L24O0tY0o5LN",
+            "_rawJson": {
+                "id": "rec11L24O0tY0o5LN",
+                "fields": {
+                    "title": "Bright Machines",
+                    "crunchbase": "https://www.crunchbase.com/organization/bright-machines#section-overview",
+                    "description": "Software-Defined Manufacturing",
+                    "funding": "Series A",
+                    "image": "logos/bright-machines.png",
+                    "website": "https://www.brightmachines.com/",
+                    "tags": [
+                        "manufacturing"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Bright Machines",
+                "crunchbase": "https://www.crunchbase.com/organization/bright-machines#section-overview",
+                "description": "Software-Defined Manufacturing",
+                "funding": "Series A",
+                "image": "logos/bright-machines.png",
+                "website": "https://www.brightmachines.com/",
+                "tags": [
+                    "manufacturing"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recVmX9Ib0RIjprcR",
+            "_rawJson": {
+                "id": "recVmX9Ib0RIjprcR",
+                "fields": {
+                    "title": "CBRE Build",
+                    "description": "CBRE Build is tech group within CBRE that builds technology for commercial Real Estate including Plans, a space-planning tool they acquired in 2017 (previously Floored).",
+                    "funding": "In-house Startup at CBRE",
+                    "image": "logos/cbre_build.png",
+                    "website": "https://www.cbrebuild.com/",
+                    "tags": [
+                        "design automation"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "New York, NY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "CBRE Build",
+                "description": "CBRE Build is tech group within CBRE that builds technology for commercial Real Estate including Plans, a space-planning tool they acquired in 2017 (previously Floored).",
+                "funding": "In-house Startup at CBRE",
+                "image": "logos/cbre_build.png",
+                "website": "https://www.cbrebuild.com/",
+                "tags": [
+                    "design automation"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "New York, NY, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recgaYUenWfvHoLW6",
+            "_rawJson": {
+                "id": "recgaYUenWfvHoLW6",
+                "fields": {
+                    "title": "Cover",
+                    "crunchbase": "https://www.crunchbase.com/organization/cover-technologies-inc",
+                    "description": "Custom Backyard Homes",
+                    "funding": "Seed ($1.6M)",
+                    "image": "https://user-images.githubusercontent.com/9513968/58451235-73228480-80c7-11e9-9043-d253c1c83ebd.png",
+                    "website": "https://www.cover.build/",
+                    "tags": [
+                        "prefabrication",
+                        "housing"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Los Angeles, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Cover",
+                "crunchbase": "https://www.crunchbase.com/organization/cover-technologies-inc",
+                "description": "Custom Backyard Homes",
+                "funding": "Seed ($1.6M)",
+                "image": "https://user-images.githubusercontent.com/9513968/58451235-73228480-80c7-11e9-9043-d253c1c83ebd.png",
+                "website": "https://www.cover.build/",
+                "tags": [
+                    "prefabrication",
+                    "housing"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Los Angeles, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recDjy89IpnDISJiq",
+            "_rawJson": {
+                "id": "recDjy89IpnDISJiq",
+                "fields": {
+                    "title": "Daquri",
+                    "crunchbase": "https://www.crunchbase.com/organization/daqri",
+                    "description": "Empower your workforce to solve meaningul problems with Professional Grade AR™",
+                    "funding": "Private Equity",
+                    "image": "logos/daqri.png",
+                    "website": "https://www.crunchbase.com/organization/daqri",
+                    "tags": [
+                        "vr"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "Los Angeles, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Daquri",
+                "crunchbase": "https://www.crunchbase.com/organization/daqri",
+                "description": "Empower your workforce to solve meaningul problems with Professional Grade AR™",
+                "funding": "Private Equity",
+                "image": "logos/daqri.png",
+                "website": "https://www.crunchbase.com/organization/daqri",
+                "tags": [
+                    "vr"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "Los Angeles, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recPvM9DG48SHeysN",
+            "_rawJson": {
+                "id": "recPvM9DG48SHeysN",
+                "fields": {
+                    "title": "Data Shapes",
+                    "description": "Custom tool development ",
+                    "funding": "Private",
+                    "image": "https://datashapes.files.wordpress.com/2017/10/cropped-a.jpg",
+                    "website": "Data-shapes.io",
+                    "tags": [
+                        "web app",
+                        "generative",
+                        "spatial data",
+                        "design automation",
+                        "vr",
+                        "space planning",
+                        "interoperability",
+                        "flux spin-off",
+                        "data management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering",
+                        "real estate"
+                    ],
+                    "location": "Paris, France",
+                    "proposed_by": "@data_shapes",
+                    "created_on": "2019-07-21T10:22:08.000Z"
+                },
+                "createdTime": "2019-07-21T10:22:08.000Z"
+            },
+            "fields": {
+                "title": "Data Shapes",
+                "description": "Custom tool development ",
+                "funding": "Private",
+                "image": "https://datashapes.files.wordpress.com/2017/10/cropped-a.jpg",
+                "website": "Data-shapes.io",
+                "tags": [
+                    "web app",
+                    "generative",
+                    "spatial data",
+                    "design automation",
+                    "vr",
+                    "space planning",
+                    "interoperability",
+                    "flux spin-off",
+                    "data management"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering",
+                    "real estate"
+                ],
+                "location": "Paris, France",
+                "proposed_by": "@data_shapes",
+                "created_on": "2019-07-21T10:22:08.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recEfbxeTBPz46rUq",
+            "_rawJson": {
+                "id": "recEfbxeTBPz46rUq",
+                "fields": {
+                    "title": "Deepblocks",
+                    "crunchbase": "https://www.crunchbase.com/organization/deep-blocks#section-overview",
+                    "description": "A tool for analyzing the financial feasibility of new and existing buildings",
+                    "funding": "$2.3M",
+                    "image": "https://dl.airtable.com/.attachmentThumbnails/82707b3115ce7ccea813439b46a17d63/539389e1",
+                    "website": "https://www.deepblocks.com/",
+                    "tags": [
+                        "analysis",
+                        "spatial data",
+                        "web app",
+                        "space planning"
+                    ],
+                    "industries": [
+                        "real estate"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attZ1fbCAtYw7XGGt",
+                            "url": "https://dl.airtable.com/.attachments/64b7844dcf06566defbd4ba91747e71c/9e52ad0c/image.png",
+                            "filename": "image.png",
+                            "size": 90518,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/88c13c47f77c1c0d944d020fe14b8f4a/e59e08f0",
+                                    "width": 53,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/1dec57588b667c2955ee1bfd4f0db85c/5e1d04a0",
+                                    "width": 454,
+                                    "height": 310
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/82707b3115ce7ccea813439b46a17d63/539389e1",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Miami, FL",
+                    "review": "approved",
+                    "created_on": "2019-07-06T23:28:44.000Z"
+                },
+                "createdTime": "2019-07-06T23:28:44.000Z"
+            },
+            "fields": {
+                "title": "Deepblocks",
+                "crunchbase": "https://www.crunchbase.com/organization/deep-blocks#section-overview",
+                "description": "A tool for analyzing the financial feasibility of new and existing buildings",
+                "funding": "$2.3M",
+                "image": "https://dl.airtable.com/.attachmentThumbnails/82707b3115ce7ccea813439b46a17d63/539389e1",
+                "website": "https://www.deepblocks.com/",
+                "tags": [
+                    "analysis",
+                    "spatial data",
+                    "web app",
+                    "space planning"
+                ],
+                "industries": [
+                    "real estate"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attZ1fbCAtYw7XGGt",
+                        "url": "https://dl.airtable.com/.attachments/64b7844dcf06566defbd4ba91747e71c/9e52ad0c/image.png",
+                        "filename": "image.png",
+                        "size": 90518,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/88c13c47f77c1c0d944d020fe14b8f4a/e59e08f0",
+                                "width": 53,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/1dec57588b667c2955ee1bfd4f0db85c/5e1d04a0",
+                                "width": 454,
+                                "height": 310
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/82707b3115ce7ccea813439b46a17d63/539389e1",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Miami, FL",
+                "review": "approved",
+                "created_on": "2019-07-06T23:28:44.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recpPsv182xfqDJbE",
+            "_rawJson": {
+                "id": "recpPsv182xfqDJbE",
+                "fields": {
+                    "title": "Factory OS",
+                    "crunchbase": "Pffsote",
+                    "description": "Vertically integrated offsite construction",
+                    "image": "https://user-images.githubusercontent.com/9513968/58451741-9817f700-80c9-11e9-9133-7659af540dcb.png",
+                    "website": "https://factoryos.com/",
+                    "tags": [
+                        "prefabrication",
+                        "housing"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "Vallejo, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Factory OS",
+                "crunchbase": "Pffsote",
+                "description": "Vertically integrated offsite construction",
+                "image": "https://user-images.githubusercontent.com/9513968/58451741-9817f700-80c9-11e9-9133-7659af540dcb.png",
+                "website": "https://factoryos.com/",
+                "tags": [
+                    "prefabrication",
+                    "housing"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "Vallejo, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recBDkQDBV4tYqfRT",
+            "_rawJson": {
+                "id": "recBDkQDBV4tYqfRT",
+                "fields": {
+                    "title": "Fieldlens",
+                    "crunchbase": "https://www.crunchbase.com/organization/fieldlens",
+                    "description": "Tool to improves communication and collaboration for construction project teams",
+                    "funding": "Acquired by WeWork",
+                    "image": "logos/fieldlens.png",
+                    "website": "https://fieldlens.com/",
+                    "tags": [
+                        "construction management",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "New York, NY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Fieldlens",
+                "crunchbase": "https://www.crunchbase.com/organization/fieldlens",
+                "description": "Tool to improves communication and collaboration for construction project teams",
+                "funding": "Acquired by WeWork",
+                "image": "logos/fieldlens.png",
+                "website": "https://fieldlens.com/",
+                "tags": [
+                    "construction management",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "New York, NY, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recQ0TlGCvknoBXB6",
+            "_rawJson": {
+                "id": "recQ0TlGCvknoBXB6",
+                "fields": {
+                    "title": "Finch",
+                    "description": "Toolbox that helps make informed decisions in the early stages of the design and planning of a building",
+                    "funding": "private funding",
+                    "image": "http://finch3d.com/about/",
+                    "website": "http://finch3d.com/about/",
+                    "tags": [
+                        "analysis",
+                        "web app",
+                        "model viewer",
+                        "generative",
+                        "desktop app",
+                        "space planning"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Malmö, Sweden",
+                    "review": "hold",
+                    "created_on": "2019-06-11T18:01:40.000Z"
+                },
+                "createdTime": "2019-06-11T18:01:40.000Z"
+            },
+            "fields": {
+                "title": "Finch",
+                "description": "Toolbox that helps make informed decisions in the early stages of the design and planning of a building",
+                "funding": "private funding",
+                "image": "http://finch3d.com/about/",
+                "website": "http://finch3d.com/about/",
+                "tags": [
+                    "analysis",
+                    "web app",
+                    "model viewer",
+                    "generative",
+                    "desktop app",
+                    "space planning"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Malmö, Sweden",
+                "review": "hold",
+                "created_on": "2019-06-11T18:01:40.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recsk1Jx30ounaBj9",
+            "_rawJson": {
+                "id": "recsk1Jx30ounaBj9",
+                "fields": {
+                    "title": "Floored",
+                    "crunchbase": "https://www.crunchbase.com/organization/floored",
+                    "description": "Interactive real estate marketing and leasing tool that puts real estate professionals in control of their test-fits",
+                    "funding": "Acquired by CBRE",
+                    "image": "logos/floored.png",
+                    "website": "https://www.floored.com/",
+                    "tags": [
+                        "space planning",
+                        "design automation"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Floored",
+                "crunchbase": "https://www.crunchbase.com/organization/floored",
+                "description": "Interactive real estate marketing and leasing tool that puts real estate professionals in control of their test-fits",
+                "funding": "Acquired by CBRE",
+                "image": "logos/floored.png",
+                "website": "https://www.floored.com/",
+                "tags": [
+                    "space planning",
+                    "design automation"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recKTI4PYH8lCf3Jp",
+            "_rawJson": {
+                "id": "recKTI4PYH8lCf3Jp",
+                "fields": {
+                    "title": "Flux.io",
+                    "description": "Cloud interoperability and data-sharing for the AEC industry",
+                    "funding": "Dead",
+                    "image": "logos/fluxio.png",
+                    "website": "https://archpaper.com/2018/02/flux-to-shut-down/",
+                    "tags": [
+                        "housing",
+                        "interoperability",
+                        "web app",
+                        "flux spin-off"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Flux.io",
+                "description": "Cloud interoperability and data-sharing for the AEC industry",
+                "funding": "Dead",
+                "image": "logos/fluxio.png",
+                "website": "https://archpaper.com/2018/02/flux-to-shut-down/",
+                "tags": [
+                    "housing",
+                    "interoperability",
+                    "web app",
+                    "flux spin-off"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recd6f9EvRzMkWYBv",
+            "_rawJson": {
+                "id": "recd6f9EvRzMkWYBv",
+                "fields": {
+                    "title": "Fologram",
+                    "crunchbase": "https://www.crunchbase.com/organization/fologram",
+                    "description": "An easy to use platform for building applications in mixed reality",
+                    "image": "logos/fologram.png",
+                    "website": "https://fologram.com/",
+                    "tags": [
+                        "vr"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Melbourne, Australia",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Fologram",
+                "crunchbase": "https://www.crunchbase.com/organization/fologram",
+                "description": "An easy to use platform for building applications in mixed reality",
+                "image": "logos/fologram.png",
+                "website": "https://fologram.com/",
+                "tags": [
+                    "vr"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Melbourne, Australia",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recor7oIY4HQTf41S",
+            "_rawJson": {
+                "id": "recor7oIY4HQTf41S",
+                "fields": {
+                    "title": "Fresh Projects",
+                    "description": "Practice management tool for architects and engineers",
+                    "funding": "Bootstrap",
+                    "image": "https://freshprojects.cloud/assets/assets-uk/images/freshprojects/512.png",
+                    "website": "www.freshprojects.cloud",
+                    "tags": [
+                        "web app",
+                        "project management",
+                        "cost estimation",
+                        "data management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "engineering",
+                        "construction"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attZabptHA1qzzwNi",
+                            "url": "https://dl.airtable.com/.attachments/e522e0130a66a0b2822d854e3e645550/8fcf298b/Fresh_Projects__LinkedIn",
+                            "filename": "Fresh_Projects__LinkedIn",
+                            "size": 8776,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/4a9cb0eb3018cc04e290fa03c0ce8997/694473ff",
+                                    "width": 36,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/7fc1ee9d29924957fab1998f7fbeab49/dbfe7734",
+                                    "width": 200,
+                                    "height": 200
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/8faaac8505f1f4f565a678303ee4c218/6a24f613",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "London, UK",
+                    "review": "hold",
+                    "created_on": "2019-06-16T05:25:47.000Z"
+                },
+                "createdTime": "2019-06-16T05:25:47.000Z"
+            },
+            "fields": {
+                "title": "Fresh Projects",
+                "description": "Practice management tool for architects and engineers",
+                "funding": "Bootstrap",
+                "image": "https://freshprojects.cloud/assets/assets-uk/images/freshprojects/512.png",
+                "website": "www.freshprojects.cloud",
+                "tags": [
+                    "web app",
+                    "project management",
+                    "cost estimation",
+                    "data management"
+                ],
+                "industries": [
+                    "architecture",
+                    "engineering",
+                    "construction"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attZabptHA1qzzwNi",
+                        "url": "https://dl.airtable.com/.attachments/e522e0130a66a0b2822d854e3e645550/8fcf298b/Fresh_Projects__LinkedIn",
+                        "filename": "Fresh_Projects__LinkedIn",
+                        "size": 8776,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4a9cb0eb3018cc04e290fa03c0ce8997/694473ff",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/7fc1ee9d29924957fab1998f7fbeab49/dbfe7734",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/8faaac8505f1f4f565a678303ee4c218/6a24f613",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "London, UK",
+                "review": "hold",
+                "created_on": "2019-06-16T05:25:47.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recJQyCH4Ez8khn9k",
+            "_rawJson": {
+                "id": "recJQyCH4Ez8khn9k",
+                "fields": {
+                    "title": "GliderBIM",
+                    "crunchbase": "https://www.crunchbase.com/organization/grit-virtual-inc",
+                    "description": "Lifecycle Asset Information Management software for the built environment",
+                    "image": "https://camo.githubusercontent.com/40bb6e4d54fa99f515780dbf8dbfd7cec3ccb413/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4470745761576a5863414134484f582e6a7067",
+                    "website": "https://gliderbim.com",
+                    "tags": [
+                        "web app",
+                        "asset management"
+                    ],
+                    "industries": [
+                        "facilities management"
+                    ],
+                    "location": "Clitheroe, UK",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "GliderBIM",
+                "crunchbase": "https://www.crunchbase.com/organization/grit-virtual-inc",
+                "description": "Lifecycle Asset Information Management software for the built environment",
+                "image": "https://camo.githubusercontent.com/40bb6e4d54fa99f515780dbf8dbfd7cec3ccb413/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4470745761576a5863414134484f582e6a7067",
+                "website": "https://gliderbim.com",
+                "tags": [
+                    "web app",
+                    "asset management"
+                ],
+                "industries": [
+                    "facilities management"
+                ],
+                "location": "Clitheroe, UK",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "reckAuaHH1aJ9bepJ",
+            "_rawJson": {
+                "id": "reckAuaHH1aJ9bepJ",
+                "fields": {
+                    "title": "Grit",
+                    "crunchbase": "https://www.crunchbase.com/organization/grit-virtual-inc",
+                    "description": "Agile Construction Management Platform",
+                    "image": "logos/grit.png",
+                    "website": "https://www.gritvirtual.com/",
+                    "tags": [
+                        "project management"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "Wichita, KS, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Grit",
+                "crunchbase": "https://www.crunchbase.com/organization/grit-virtual-inc",
+                "description": "Agile Construction Management Platform",
+                "image": "logos/grit.png",
+                "website": "https://www.gritvirtual.com/",
+                "tags": [
+                    "project management"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "Wichita, KS, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec0eykkmvzJnfXul",
+            "_rawJson": {
+                "id": "rec0eykkmvzJnfXul",
+                "fields": {
+                    "title": "Helix RE",
+                    "crunchbase": "https://www.crunchbase.com/organization/flux-factory",
+                    "description": "Data solution for large-scale property owners and managers",
+                    "image": "logos/helix.png",
+                    "website": "https://helix.re/",
+                    "tags": [
+                        "point cloud",
+                        "flux spin-off"
+                    ],
+                    "industries": [
+                        "real estate"
+                    ],
+                    "location": "San Mateo, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Helix RE",
+                "crunchbase": "https://www.crunchbase.com/organization/flux-factory",
+                "description": "Data solution for large-scale property owners and managers",
+                "image": "logos/helix.png",
+                "website": "https://helix.re/",
+                "tags": [
+                    "point cloud",
+                    "flux spin-off"
+                ],
+                "industries": [
+                    "real estate"
+                ],
+                "location": "San Mateo, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recxVvDkT8hflReuV",
+            "_rawJson": {
+                "id": "recxVvDkT8hflReuV",
+                "fields": {
+                    "title": "Higharc",
+                    "description": "House generation based on needs",
+                    "funding": "Seed $4.7M",
+                    "image": "https://cdn-images-1.medium.com/max/1600/1*rU2UtMRqaxsN4bUYm1mKvw.gif",
+                    "website": "https://higharc.com/",
+                    "tags": [
+                        "generative",
+                        "prefabrication",
+                        "housing",
+                        "design automation"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Durham, NC, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-14T17:43:25.000Z"
+                },
+                "createdTime": "2019-06-14T17:43:25.000Z"
+            },
+            "fields": {
+                "title": "Higharc",
+                "description": "House generation based on needs",
+                "funding": "Seed $4.7M",
+                "image": "https://cdn-images-1.medium.com/max/1600/1*rU2UtMRqaxsN4bUYm1mKvw.gif",
+                "website": "https://higharc.com/",
+                "tags": [
+                    "generative",
+                    "prefabrication",
+                    "housing",
+                    "design automation"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Durham, NC, USA",
+                "review": "approved",
+                "created_on": "2019-06-14T17:43:25.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recylFqCDJXdMaPr7",
+            "_rawJson": {
+                "id": "recylFqCDJXdMaPr7",
+                "fields": {
+                    "title": "Hypar",
+                    "description": "We provide a cloud compute environment and software libraries that enable AEC developers to deploy their specialized building logic to the cloud, and make it available to their team, their organization, or the world.",
+                    "image": "logos/hypar.png",
+                    "website": "https://hypar.io/",
+                    "tags": [
+                        "web app",
+                        "generative"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Culver City, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Hypar",
+                "description": "We provide a cloud compute environment and software libraries that enable AEC developers to deploy their specialized building logic to the cloud, and make it available to their team, their organization, or the world.",
+                "image": "logos/hypar.png",
+                "website": "https://hypar.io/",
+                "tags": [
+                    "web app",
+                    "generative"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Culver City, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recq67VvzLrr9w49J",
+            "_rawJson": {
+                "id": "recq67VvzLrr9w49J",
+                "fields": {
+                    "title": "Iris VR",
+                    "crunchbase": "https://www.crunchbase.com/organization/irisvr-inc",
+                    "description": "IrisVR enables digital prototyping of physical space, allowing the most complex decisions to be made at human scale",
+                    "funding": "Series A $9.6M",
+                    "image": "logos/irisvr.png",
+                    "website": "https://irisvr.com/",
+                    "tags": [
+                        "vr"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "New York, NY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Iris VR",
+                "crunchbase": "https://www.crunchbase.com/organization/irisvr-inc",
+                "description": "IrisVR enables digital prototyping of physical space, allowing the most complex decisions to be made at human scale",
+                "funding": "Series A $9.6M",
+                "image": "logos/irisvr.png",
+                "website": "https://irisvr.com/",
+                "tags": [
+                    "vr"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "New York, NY, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recx6uchs3bFdqtmJ",
+            "_rawJson": {
+                "id": "recx6uchs3bFdqtmJ",
+                "fields": {
+                    "title": "Join",
+                    "description": "Join optimizes product and material selection and usage, based on project's unique characteristics",
+                    "funding": "Venture",
+                    "image": "logos/join.png",
+                    "website": "https://join.build",
+                    "tags": [
+                        "cost estimation",
+                        "flux spin-off"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Join",
+                "description": "Join optimizes product and material selection and usage, based on project's unique characteristics",
+                "funding": "Venture",
+                "image": "logos/join.png",
+                "website": "https://join.build",
+                "tags": [
+                    "cost estimation",
+                    "flux spin-off"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recjEEnhGM4gUCpw1",
+            "_rawJson": {
+                "id": "recjEEnhGM4gUCpw1",
+                "fields": {
+                    "title": "Kasita",
+                    "description": "A Micro-Housing Start-Up",
+                    "image": "logos/kasita.png",
+                    "website": "https://kasita.com/",
+                    "tags": [
+                        "prefabrication"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "Austin, TX, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Kasita",
+                "description": "A Micro-Housing Start-Up",
+                "image": "logos/kasita.png",
+                "website": "https://kasita.com/",
+                "tags": [
+                    "prefabrication"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "Austin, TX, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recPvnr2yYVITS8eJ",
+            "_rawJson": {
+                "id": "recPvnr2yYVITS8eJ",
+                "fields": {
+                    "title": "Katerra",
+                    "description": "Katerra is a technology company optimizing the way we develop, design, and construct buildings",
+                    "funding": "Series D $1.2B",
+                    "image": "logos/katerra.png",
+                    "website": "https://www.katerra.com",
+                    "tags": [
+                        "manufacturing"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "Menlo Park, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Katerra",
+                "description": "Katerra is a technology company optimizing the way we develop, design, and construct buildings",
+                "funding": "Series D $1.2B",
+                "image": "logos/katerra.png",
+                "website": "https://www.katerra.com",
+                "tags": [
+                    "manufacturing"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "Menlo Park, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recZXrDZEKk4cXctb",
+            "_rawJson": {
+                "id": "recZXrDZEKk4cXctb",
+                "fields": {
+                    "title": "Konstru",
+                    "crunchbase": "https://www.crunchbase.com/organization/konstru",
+                    "description": "Faster Updates, Easier Collaboration, & Reliable Change Management for BIM",
+                    "image": "logos/konstru.png",
+                    "website": "https://konstru.com",
+                    "tags": [
+                        "web app",
+                        "change management"
+                    ],
+                    "industries": [
+                        "engineering"
+                    ],
+                    "location": "New York, NY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Konstru",
+                "crunchbase": "https://www.crunchbase.com/organization/konstru",
+                "description": "Faster Updates, Easier Collaboration, & Reliable Change Management for BIM",
+                "image": "logos/konstru.png",
+                "website": "https://konstru.com",
+                "tags": [
+                    "web app",
+                    "change management"
+                ],
+                "industries": [
+                    "engineering"
+                ],
+                "location": "New York, NY, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec4k6ZLaRa7FP1a4",
+            "_rawJson": {
+                "id": "rec4k6ZLaRa7FP1a4",
+                "fields": {
+                    "title": "Kreo",
+                    "crunchbase": "https://www.crunchbase.com/organization/kreo",
+                    "description": "Pre-construction planning and design software",
+                    "funding": "Private",
+                    "image": "https://dl.airtable.com/.attachmentThumbnails/59199478406baf39c868577501cd34ab/cc44ae50",
+                    "website": "www.kreo.net",
+                    "tags": [
+                        "analysis",
+                        "issue tracking",
+                        "model viewer",
+                        "generative",
+                        "housing",
+                        "construction management",
+                        "project management",
+                        "cost estimation",
+                        "data management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering",
+                        "real estate"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attwxSAq59ha1LOd2",
+                            "url": "https://dl.airtable.com/.attachments/d4482da68230a4db28909de49a2cfed8/8bf78da8/kreo.png",
+                            "filename": "kreo.png",
+                            "size": 30641,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/2c78b62c42ed58619f8c5042e646dade/834581d5",
+                                    "width": 75,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/21c1a455c6ca53dd1c4569069cdce73a/0bc2276c",
+                                    "width": 557,
+                                    "height": 267
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/59199478406baf39c868577501cd34ab/cc44ae50",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "London, UK",
+                    "review": "approved",
+                    "created_on": "2019-06-11T13:12:31.000Z"
+                },
+                "createdTime": "2019-06-11T13:12:31.000Z"
+            },
+            "fields": {
+                "title": "Kreo",
+                "crunchbase": "https://www.crunchbase.com/organization/kreo",
+                "description": "Pre-construction planning and design software",
+                "funding": "Private",
+                "image": "https://dl.airtable.com/.attachmentThumbnails/59199478406baf39c868577501cd34ab/cc44ae50",
+                "website": "www.kreo.net",
+                "tags": [
+                    "analysis",
+                    "issue tracking",
+                    "model viewer",
+                    "generative",
+                    "housing",
+                    "construction management",
+                    "project management",
+                    "cost estimation",
+                    "data management"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering",
+                    "real estate"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attwxSAq59ha1LOd2",
+                        "url": "https://dl.airtable.com/.attachments/d4482da68230a4db28909de49a2cfed8/8bf78da8/kreo.png",
+                        "filename": "kreo.png",
+                        "size": 30641,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2c78b62c42ed58619f8c5042e646dade/834581d5",
+                                "width": 75,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/21c1a455c6ca53dd1c4569069cdce73a/0bc2276c",
+                                "width": 557,
+                                "height": 267
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/59199478406baf39c868577501cd34ab/cc44ae50",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "London, UK",
+                "review": "approved",
+                "created_on": "2019-06-11T13:12:31.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recwzJnFgtgV0ge3G",
+            "_rawJson": {
+                "id": "recwzJnFgtgV0ge3G",
+                "fields": {
+                    "title": "Ladybug Tools",
+                    "description": "Making environmental design knowledge and tools freely accessible to every person, project and design process",
+                    "image": "logos/ladybug.png",
+                    "website": "https://www.ladybug.tools",
+                    "tags": [
+                        "analysis",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Fairfax, VA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Ladybug Tools",
+                "description": "Making environmental design knowledge and tools freely accessible to every person, project and design process",
+                "image": "logos/ladybug.png",
+                "website": "https://www.ladybug.tools",
+                "tags": [
+                    "analysis",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Fairfax, VA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recy3y2GHmcZBqQrC",
+            "_rawJson": {
+                "id": "recy3y2GHmcZBqQrC",
+                "fields": {
+                    "title": "Layer",
+                    "description": "One platform for collecting, managing, and sharing building data",
+                    "image": "logos/layer.png",
+                    "website": "https://layer.team",
+                    "tags": [
+                        "data management",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Lincoln, NE, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Layer",
+                "description": "One platform for collecting, managing, and sharing building data",
+                "image": "logos/layer.png",
+                "website": "https://layer.team",
+                "tags": [
+                    "data management",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Lincoln, NE, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recGaLi8LQnoSKh8l",
+            "_rawJson": {
+                "id": "recGaLi8LQnoSKh8l",
+                "fields": {
+                    "title": "Leko Labs",
+                    "crunchbase": "https://www.crunchbase.com/organization/leko-labs",
+                    "description": "Leko is a tech-company committed to reinvent the construction process for next generation buildings",
+                    "funding": "Grant",
+                    "image": "logos/leko.png",
+                    "website": "https://www.lekolabs.com/",
+                    "tags": [
+                        "prefabrication"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "Foetz, Luxembourg",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Leko Labs",
+                "crunchbase": "https://www.crunchbase.com/organization/leko-labs",
+                "description": "Leko is a tech-company committed to reinvent the construction process for next generation buildings",
+                "funding": "Grant",
+                "image": "logos/leko.png",
+                "website": "https://www.lekolabs.com/",
+                "tags": [
+                    "prefabrication"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "Foetz, Luxembourg",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "reczOd68qcsg9Smd9",
+            "_rawJson": {
+                "id": "reczOd68qcsg9Smd9",
+                "fields": {
+                    "title": "Modelo",
+                    "description": "Modelo is a cloud based design and development communication platform for AEC industry",
+                    "funding": "Seed",
+                    "image": "logos/modelo.png",
+                    "website": "https://modelo.io/",
+                    "tags": [
+                        "web app",
+                        "model viewer"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Somerville, MA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Modelo",
+                "description": "Modelo is a cloud based design and development communication platform for AEC industry",
+                "funding": "Seed",
+                "image": "logos/modelo.png",
+                "website": "https://modelo.io/",
+                "tags": [
+                    "web app",
+                    "model viewer"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Somerville, MA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec2CGM5D2cXTSc8L",
+            "_rawJson": {
+                "id": "rec2CGM5D2cXTSc8L",
+                "fields": {
+                    "title": "Molteao",
+                    "crunchbase": "https://www.crunchbase.com/organization/molteo",
+                    "description": "Molteo provides an easy-to-use tool which provides a real-time overview of projects and construction sites, flexible resource capture, and paperless billing",
+                    "funding": "Seed",
+                    "image": "https://user-images.githubusercontent.com/50488062/57527623-716b6980-7330-11e9-8b14-5236bae06d29.png",
+                    "website": "https://molteo.de/",
+                    "tags": [
+                        "web app",
+                        "construction management",
+                        "cost estimation",
+                        "project management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "engineering"
+                    ],
+                    "location": "Schleswig, Germany",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Molteao",
+                "crunchbase": "https://www.crunchbase.com/organization/molteo",
+                "description": "Molteo provides an easy-to-use tool which provides a real-time overview of projects and construction sites, flexible resource capture, and paperless billing",
+                "funding": "Seed",
+                "image": "https://user-images.githubusercontent.com/50488062/57527623-716b6980-7330-11e9-8b14-5236bae06d29.png",
+                "website": "https://molteo.de/",
+                "tags": [
+                    "web app",
+                    "construction management",
+                    "cost estimation",
+                    "project management"
+                ],
+                "industries": [
+                    "architecture",
+                    "engineering"
+                ],
+                "location": "Schleswig, Germany",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recZYpYRZqNuMZpHq",
+            "_rawJson": {
+                "id": "recZYpYRZqNuMZpHq",
+                "fields": {
+                    "title": "Monograph",
+                    "crunchbase": "https://www.crunchbase.com/organization/monograph",
+                    "description": "Project Management Software For Architects & Engineers",
+                    "funding": "MIT Grant",
+                    "image": "logos/monograph.png",
+                    "website": "https://monograph.io",
+                    "tags": [
+                        "project management",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Monograph",
+                "crunchbase": "https://www.crunchbase.com/organization/monograph",
+                "description": "Project Management Software For Architects & Engineers",
+                "funding": "MIT Grant",
+                "image": "logos/monograph.png",
+                "website": "https://monograph.io",
+                "tags": [
+                    "project management",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec3wmLazuOeG5QWS",
+            "_rawJson": {
+                "id": "rec3wmLazuOeG5QWS",
+                "fields": {
+                    "title": "OneConcern ",
+                    "crunchbase": "https://www.crunchbase.com/organization/oneconcern",
+                    "description": "We predict and quantify the impact of natural disasters, using machine learning to build more resilient businesses, infrastructure, and global communities.",
+                    "funding": "22.6M",
+                    "image": "https://www.oneconcern.com/share.jpg",
+                    "website": "https://www.oneconcern.com/",
+                    "tags": [
+                        "data management",
+                        "verified AI",
+                        "spatial data"
+                    ],
+                    "industries": [
+                        "engineering",
+                        "construction"
+                    ],
+                    "location": " Menlo Park, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-07-04T19:16:45.000Z"
+                },
+                "createdTime": "2019-07-04T19:16:45.000Z"
+            },
+            "fields": {
+                "title": "OneConcern ",
+                "crunchbase": "https://www.crunchbase.com/organization/oneconcern",
+                "description": "We predict and quantify the impact of natural disasters, using machine learning to build more resilient businesses, infrastructure, and global communities.",
+                "funding": "22.6M",
+                "image": "https://www.oneconcern.com/share.jpg",
+                "website": "https://www.oneconcern.com/",
+                "tags": [
+                    "data management",
+                    "verified AI",
+                    "spatial data"
+                ],
+                "industries": [
+                    "engineering",
+                    "construction"
+                ],
+                "location": " Menlo Park, CA, USA",
+                "review": "approved",
+                "created_on": "2019-07-04T19:16:45.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recjeuCVukfcenOpa",
+            "_rawJson": {
+                "id": "recjeuCVukfcenOpa",
+                "fields": {
+                    "title": "OpenSpace",
+                    "crunchbase": "https://www.crunchbase.com/organization/openspace-ai",
+                    "description": "Job site 360 photos documentation",
+                    "funding": "Seed ($3.5M)",
+                    "image": "https://user-images.githubusercontent.com/9513968/58451421-4458de00-80c8-11e9-8d2d-56388a00d2f5.png",
+                    "website": "https://openspace.ai/",
+                    "tags": [
+                        "construction management",
+                        "claims AI"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "OpenSpace",
+                "crunchbase": "https://www.crunchbase.com/organization/openspace-ai",
+                "description": "Job site 360 photos documentation",
+                "funding": "Seed ($3.5M)",
+                "image": "https://user-images.githubusercontent.com/9513968/58451421-4458de00-80c8-11e9-8d2d-56388a00d2f5.png",
+                "website": "https://openspace.ai/",
+                "tags": [
+                    "construction management",
+                    "claims AI"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec6KsNutL4Vdq7ZA",
+            "_rawJson": {
+                "id": "rec6KsNutL4Vdq7ZA",
+                "fields": {
+                    "title": "Outer Labs",
+                    "description": "Connect your digital and physical workflow",
+                    "image": "logos/outerlabs.png",
+                    "website": "http://www.outerlabs.io",
+                    "tags": [
+                        "data management",
+                        "flux spin-off"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Outer Labs",
+                "description": "Connect your digital and physical workflow",
+                "image": "logos/outerlabs.png",
+                "website": "http://www.outerlabs.io",
+                "tags": [
+                    "data management",
+                    "flux spin-off"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recRIvpKBwqpx9eRO",
+            "_rawJson": {
+                "id": "recRIvpKBwqpx9eRO",
+                "fields": {
+                    "title": "Paperless Construction ",
+                    "description": "The safety of your employees, customers, and contractors as well as the protection of the environment in the communities in which you work is becoming increasingly important and highly regulated. Maintaining records of these activities is becoming problematic though.  Paperless Construction is a first of its kind IOS and Android mobile and web application built specifically for this purpose, for construction teams to manage all their HSE training records centrally and paperlessly.  This mobile application allows Construction Site Management to load Safe Systems of Work, Briefing Documents or Corporate Literature onto the platform, share it with the project teams out in the field for the recording of HSE briefings digitally and in real-time.  Once on site, supervisors can access these documents via the mobile application using either tablets or their phones and link inducted attendees to the briefings through Auto-ID technology for authentication. The result is a detailed and current record of all site staff competencies and training records for the project and future projects. The mobile application also covers other features such as timekeeping, fatigue management, emergency evacuation, roll call and broadcasting messages corporation wide or to the individual project teams working on the construction site. It also makes provision to be used as an mobile application to undertake HSE inspections, completion of the documentation and the required checklists.",
+                    "funding": "-",
+                    "image": "https://images.app.goo.gl/JgiMCYNrvW6FjFrk9",
+                    "website": "https://paperlessconstruction.co.uk/",
+                    "tags": [
+                        "construction management"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "York, United Kingdom",
+                    "review": "hold",
+                    "proposed_by": "raymond@paperlessconstruction.co.uk",
+                    "created_on": "2019-07-07T16:25:27.000Z"
+                },
+                "createdTime": "2019-07-07T16:25:27.000Z"
+            },
+            "fields": {
+                "title": "Paperless Construction ",
+                "description": "The safety of your employees, customers, and contractors as well as the protection of the environment in the communities in which you work is becoming increasingly important and highly regulated. Maintaining records of these activities is becoming problematic though.  Paperless Construction is a first of its kind IOS and Android mobile and web application built specifically for this purpose, for construction teams to manage all their HSE training records centrally and paperlessly.  This mobile application allows Construction Site Management to load Safe Systems of Work, Briefing Documents or Corporate Literature onto the platform, share it with the project teams out in the field for the recording of HSE briefings digitally and in real-time.  Once on site, supervisors can access these documents via the mobile application using either tablets or their phones and link inducted attendees to the briefings through Auto-ID technology for authentication. The result is a detailed and current record of all site staff competencies and training records for the project and future projects. The mobile application also covers other features such as timekeeping, fatigue management, emergency evacuation, roll call and broadcasting messages corporation wide or to the individual project teams working on the construction site. It also makes provision to be used as an mobile application to undertake HSE inspections, completion of the documentation and the required checklists.",
+                "funding": "-",
+                "image": "https://images.app.goo.gl/JgiMCYNrvW6FjFrk9",
+                "website": "https://paperlessconstruction.co.uk/",
+                "tags": [
+                    "construction management"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "York, United Kingdom",
+                "review": "hold",
+                "proposed_by": "raymond@paperlessconstruction.co.uk",
+                "created_on": "2019-07-07T16:25:27.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recqh6fbmdg2zKzNy",
+            "_rawJson": {
+                "id": "recqh6fbmdg2zKzNy",
+                "fields": {
+                    "title": "PiXYZ",
+                    "crunchbase": "https://www.crunchbase.com/organization/pixyz-software",
+                    "description": "PiXYZ Software is the leading solution for large CAD data automatic preparation, optimization & review (patents pending)",
+                    "image": "logos/pixyz.png",
+                    "website": "https://www.pixyz-software.com/",
+                    "tags": [
+                        "desktop app"
+                    ],
+                    "location": "Ennis, Ireland",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "PiXYZ",
+                "crunchbase": "https://www.crunchbase.com/organization/pixyz-software",
+                "description": "PiXYZ Software is the leading solution for large CAD data automatic preparation, optimization & review (patents pending)",
+                "image": "logos/pixyz.png",
+                "website": "https://www.pixyz-software.com/",
+                "tags": [
+                    "desktop app"
+                ],
+                "location": "Ennis, Ireland",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recc7fNXIErEK72HJ",
+            "_rawJson": {
+                "id": "recc7fNXIErEK72HJ",
+                "fields": {
+                    "title": "PlanGrid",
+                    "crunchbase": "https://www.crunchbase.com/organization/plangrid",
+                    "description": "Simple, powerful construction software that GCs, subs, and owners love to use.",
+                    "funding": "Acquired by Autodesk",
+                    "image": "logos/plangrid.png",
+                    "website": "http://www.plangrid.com/",
+                    "tags": [
+                        "construction management"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "PlanGrid",
+                "crunchbase": "https://www.crunchbase.com/organization/plangrid",
+                "description": "Simple, powerful construction software that GCs, subs, and owners love to use.",
+                "funding": "Acquired by Autodesk",
+                "image": "logos/plangrid.png",
+                "website": "http://www.plangrid.com/",
+                "tags": [
+                    "construction management"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recM3Nojb8omkm3Dm",
+            "_rawJson": {
+                "id": "recM3Nojb8omkm3Dm",
+                "fields": {
+                    "title": "Renga",
+                    "crunchbase": "https://www.crunchbase.com/organization/renga",
+                    "description": "Architectural 3D BIM (CAD) for construction design",
+                    "funding": "Private",
+                    "image": "https://rengabim.com/images/renga.png",
+                    "website": "https://rengabim.com/en/",
+                    "tags": [
+                        "change management",
+                        "model viewer",
+                        "housing",
+                        "desktop app",
+                        "project management"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "atty0q41YYZtm4qti",
+                            "url": "https://dl.airtable.com/.attachments/bbd244bc4a2e5619459232b951dccdde/4e95a481/house.jpg",
+                            "filename": "house.jpg",
+                            "size": 405308,
+                            "type": "image/jpeg",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/a85efdd6e2f5ed6b281d2519595a80b3/fd35897f",
+                                    "width": 59,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/4f8c514093ffed7bcc4f3980a48d2f86/737e63db",
+                                    "width": 833,
+                                    "height": 512
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/c4ea767d03da83712915d8b11beffbdf/1aaf6038",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Saint-Petersburg, Russia",
+                    "created_on": "2019-07-22T21:18:30.000Z"
+                },
+                "createdTime": "2019-07-22T21:18:30.000Z"
+            },
+            "fields": {
+                "title": "Renga",
+                "crunchbase": "https://www.crunchbase.com/organization/renga",
+                "description": "Architectural 3D BIM (CAD) for construction design",
+                "funding": "Private",
+                "image": "https://rengabim.com/images/renga.png",
+                "website": "https://rengabim.com/en/",
+                "tags": [
+                    "change management",
+                    "model viewer",
+                    "housing",
+                    "desktop app",
+                    "project management"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering"
+                ],
+                "image_embed": [
+                    {
+                        "id": "atty0q41YYZtm4qti",
+                        "url": "https://dl.airtable.com/.attachments/bbd244bc4a2e5619459232b951dccdde/4e95a481/house.jpg",
+                        "filename": "house.jpg",
+                        "size": 405308,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/a85efdd6e2f5ed6b281d2519595a80b3/fd35897f",
+                                "width": 59,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4f8c514093ffed7bcc4f3980a48d2f86/737e63db",
+                                "width": 833,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/c4ea767d03da83712915d8b11beffbdf/1aaf6038",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Saint-Petersburg, Russia",
+                "created_on": "2019-07-22T21:18:30.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "reclqun8eEzU88G0o",
+            "_rawJson": {
+                "id": "reclqun8eEzU88G0o",
+                "fields": {
+                    "title": "Samara | Backyard",
+                    "description": "An initiative to prototype new ways that homes can be built and shared, guided by an ambition to realize more humanistic, future-oriented, and waste-conscious design.",
+                    "funding": "In-house Startup at Airbnb",
+                    "image": "https://static.dezeen.com/uploads/2018/12/airbnb-backyard-initiative-samara-housing-prototype_dezeen_hero-852x479.jpg",
+                    "website": "https://samara.com/backyard/",
+                    "tags": [
+                        "housing"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Samara | Backyard",
+                "description": "An initiative to prototype new ways that homes can be built and shared, guided by an ambition to realize more humanistic, future-oriented, and waste-conscious design.",
+                "funding": "In-house Startup at Airbnb",
+                "image": "https://static.dezeen.com/uploads/2018/12/airbnb-backyard-initiative-samara-housing-prototype_dezeen_hero-852x479.jpg",
+                "website": "https://samara.com/backyard/",
+                "tags": [
+                    "housing"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rect0sNAHFkE8NAYD",
+            "_rawJson": {
+                "id": "rect0sNAHFkE8NAYD",
+                "fields": {
+                    "title": "San Francisco Computational Design Institute",
+                    "description": "It is a non-profit start-up interested in new technologies in the AEC space",
+                    "funding": "no",
+                    "image": "https://sfcdug.files.wordpress.com/2018/08/cropped-sfcdug-full-logo-horizontal.png?w=656&h=219",
+                    "website": "https://sfcdug.org/",
+                    "tags": [
+                        "generative",
+                        "web app",
+                        "claims AI",
+                        "verified AI",
+                        "ar",
+                        "data management",
+                        "project management",
+                        "asset management",
+                        "space planning",
+                        "construction management",
+                        "vr",
+                        "design automation"
+                    ],
+                    "industries": [
+                        "architecture",
+                        "construction",
+                        "engineering",
+                        "facilities management",
+                        "real estate"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "hold",
+                    "created_on": "2019-07-04T19:19:01.000Z"
+                },
+                "createdTime": "2019-07-04T19:19:01.000Z"
+            },
+            "fields": {
+                "title": "San Francisco Computational Design Institute",
+                "description": "It is a non-profit start-up interested in new technologies in the AEC space",
+                "funding": "no",
+                "image": "https://sfcdug.files.wordpress.com/2018/08/cropped-sfcdug-full-logo-horizontal.png?w=656&h=219",
+                "website": "https://sfcdug.org/",
+                "tags": [
+                    "generative",
+                    "web app",
+                    "claims AI",
+                    "verified AI",
+                    "ar",
+                    "data management",
+                    "project management",
+                    "asset management",
+                    "space planning",
+                    "construction management",
+                    "vr",
+                    "design automation"
+                ],
+                "industries": [
+                    "architecture",
+                    "construction",
+                    "engineering",
+                    "facilities management",
+                    "real estate"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "hold",
+                "created_on": "2019-07-04T19:19:01.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recBB6XfDsxquS2P3",
+            "_rawJson": {
+                "id": "recBB6XfDsxquS2P3",
+                "fields": {
+                    "title": "Spacemaker",
+                    "description": "Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site.",
+                    "image": "logos/spacemaker.png",
+                    "website": "https://spacemaker.ai",
+                    "tags": [
+                        "housing",
+                        "generative",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Oslo, Norway",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Spacemaker",
+                "description": "Spacemaker has developed a game-changing AI technology that helps users discover smarter ways to maximize the potential of a building site.",
+                "image": "logos/spacemaker.png",
+                "website": "https://spacemaker.ai",
+                "tags": [
+                    "housing",
+                    "generative",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Oslo, Norway",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec9DlzUJlTrtjOAG",
+            "_rawJson": {
+                "id": "rec9DlzUJlTrtjOAG",
+                "fields": {
+                    "title": "Speckle",
+                    "description": "Speckle is an open source (MIT) initiative for developing an extensible Design & AEC data communication and collaboration platform.",
+                    "funding": "Open Source (MIT)",
+                    "image": "logos/speckle.png",
+                    "website": "https://speckle.works/",
+                    "tags": [
+                        "interoperability",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "London, UK",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Speckle",
+                "description": "Speckle is an open source (MIT) initiative for developing an extensible Design & AEC data communication and collaboration platform.",
+                "funding": "Open Source (MIT)",
+                "image": "logos/speckle.png",
+                "website": "https://speckle.works/",
+                "tags": [
+                    "interoperability",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "London, UK",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec2i7uDoo0QAucp5",
+            "_rawJson": {
+                "id": "rec2i7uDoo0QAucp5",
+                "fields": {
+                    "title": "Testfit.io",
+                    "description": "Rapid Test Fit Software",
+                    "image": "logos/testfitio.png",
+                    "website": "https://testfit.io/",
+                    "tags": [
+                        "design automation",
+                        "desktop app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "Dallas, TX, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Testfit.io",
+                "description": "Rapid Test Fit Software",
+                "image": "logos/testfitio.png",
+                "website": "https://testfit.io/",
+                "tags": [
+                    "design automation",
+                    "desktop app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "Dallas, TX, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recSFf1wGYT90kpXP",
+            "_rawJson": {
+                "id": "recSFf1wGYT90kpXP",
+                "fields": {
+                    "title": "The Wild",
+                    "crunchbase": "https://www.crunchbase.com/organization/wild",
+                    "description": "Immersive VR Collaboration for Teams",
+                    "funding": "Seed",
+                    "image": "https://dl.airtable.com/.attachments/992e747b6edd01f45a4c1115a07048dd/83c2e1f8/the_wild.png",
+                    "website": "https://thewild.com/",
+                    "tags": [
+                        "vr",
+                        "model viewer"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attdW6uxHOsIZ3McQ",
+                            "url": "https://dl.airtable.com/.attachments/992e747b6edd01f45a4c1115a07048dd/83c2e1f8/the_wild.png",
+                            "filename": "the_wild.png",
+                            "size": 501420,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/2357e56f2650367d704059ca1a654241/3372573d",
+                                    "width": 56,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/95a622d79adb166ead3fea72aa4c29a8/ffacab2c",
+                                    "width": 791,
+                                    "height": 508
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/d037d11e95067d06d09fa44c13eb1952/6b16a5a5",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Portland, OR, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-07T07:35:52.000Z"
+                },
+                "createdTime": "2019-06-07T07:35:52.000Z"
+            },
+            "fields": {
+                "title": "The Wild",
+                "crunchbase": "https://www.crunchbase.com/organization/wild",
+                "description": "Immersive VR Collaboration for Teams",
+                "funding": "Seed",
+                "image": "https://dl.airtable.com/.attachments/992e747b6edd01f45a4c1115a07048dd/83c2e1f8/the_wild.png",
+                "website": "https://thewild.com/",
+                "tags": [
+                    "vr",
+                    "model viewer"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attdW6uxHOsIZ3McQ",
+                        "url": "https://dl.airtable.com/.attachments/992e747b6edd01f45a4c1115a07048dd/83c2e1f8/the_wild.png",
+                        "filename": "the_wild.png",
+                        "size": 501420,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2357e56f2650367d704059ca1a654241/3372573d",
+                                "width": 56,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/95a622d79adb166ead3fea72aa4c29a8/ffacab2c",
+                                "width": 791,
+                                "height": 508
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/d037d11e95067d06d09fa44c13eb1952/6b16a5a5",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Portland, OR, USA",
+                "review": "approved",
+                "created_on": "2019-06-07T07:35:52.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recqXRxeF1h89FueR",
+            "_rawJson": {
+                "id": "recqXRxeF1h89FueR",
+                "fields": {
+                    "title": "Topos",
+                    "crunchbase": "https://www.crunchbase.com/organization/topos",
+                    "description": "Topos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities",
+                    "funding": "Seed",
+                    "image": "logos/topos.png",
+                    "website": "https://topos.com",
+                    "tags": [
+                        "spatial data",
+                        "claims AI"
+                    ],
+                    "industries": [
+                        "real estate"
+                    ],
+                    "location": "New York, NY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Topos",
+                "crunchbase": "https://www.crunchbase.com/organization/topos",
+                "description": "Topos creates location intelligence products that provide new social, cultural, and business insights about neighborhoods and cities",
+                "funding": "Seed",
+                "image": "logos/topos.png",
+                "website": "https://topos.com",
+                "tags": [
+                    "spatial data",
+                    "claims AI"
+                ],
+                "industries": [
+                    "real estate"
+                ],
+                "location": "New York, NY, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recEYHV66NQlOzO9z",
+            "_rawJson": {
+                "id": "recEYHV66NQlOzO9z",
+                "fields": {
+                    "title": "UpCodes",
+                    "crunchbase": "https://www.crunchbase.com/organization/upcodes",
+                    "description": "UpCodes helps the AEC industry deliver code compliant buildings",
+                    "funding": "Seed $825K",
+                    "image": "logos/upcodes.png",
+                    "website": "https://up.codes",
+                    "tags": [
+                        "documentation",
+                        "web app",
+                        "claims AI"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "San Francisco, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "UpCodes",
+                "crunchbase": "https://www.crunchbase.com/organization/upcodes",
+                "description": "UpCodes helps the AEC industry deliver code compliant buildings",
+                "funding": "Seed $825K",
+                "image": "logos/upcodes.png",
+                "website": "https://up.codes",
+                "tags": [
+                    "documentation",
+                    "web app",
+                    "claims AI"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "San Francisco, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "recz17RcshncUGbI4",
+            "_rawJson": {
+                "id": "recz17RcshncUGbI4",
+                "fields": {
+                    "title": "Urban Footprint ",
+                    "crunchbase": "https://www.crunchbase.com/organization/calthorpe-analytics#section-overview",
+                    "description": "Urban Location Intelligence Software",
+                    "funding": "Seed 6.5M",
+                    "image": "https://dl.airtable.com/.attachmentThumbnails/309d14cd4610543d712041e622cfc0f2/3ffb9291",
+                    "website": "https://urbanfootprint.com/",
+                    "tags": [
+                        "spatial data",
+                        "web app",
+                        "analysis"
+                    ],
+                    "industries": [
+                        "real estate"
+                    ],
+                    "image_embed": [
+                        {
+                            "id": "attSwUWSEt63ANRtO",
+                            "url": "https://dl.airtable.com/.attachments/a7e4a6e7286a004721006b13e3975706/e0c1c853/ScreenShot2019-07-06at4.22.49PM.png",
+                            "filename": "Screen Shot 2019-07-06 at 4.22.49 PM.png",
+                            "size": 540543,
+                            "type": "image/png",
+                            "thumbnails": {
+                                "small": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/04eac0ff4e2702e6a5278a3a2e827f64/8454a781",
+                                    "width": 67,
+                                    "height": 36
+                                },
+                                "large": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/ad4eb11be23916f7c8199eafac084db4/b62409ef",
+                                    "width": 632,
+                                    "height": 338
+                                },
+                                "full": {
+                                    "url": "https://dl.airtable.com/.attachmentThumbnails/309d14cd4610543d712041e622cfc0f2/3ffb9291",
+                                    "width": 3000,
+                                    "height": 3000
+                                }
+                            }
+                        }
+                    ],
+                    "location": "Berkeley, CA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-24T06:22:56.000Z"
+                },
+                "createdTime": "2019-06-24T06:22:56.000Z"
+            },
+            "fields": {
+                "title": "Urban Footprint ",
+                "crunchbase": "https://www.crunchbase.com/organization/calthorpe-analytics#section-overview",
+                "description": "Urban Location Intelligence Software",
+                "funding": "Seed 6.5M",
+                "image": "https://dl.airtable.com/.attachmentThumbnails/309d14cd4610543d712041e622cfc0f2/3ffb9291",
+                "website": "https://urbanfootprint.com/",
+                "tags": [
+                    "spatial data",
+                    "web app",
+                    "analysis"
+                ],
+                "industries": [
+                    "real estate"
+                ],
+                "image_embed": [
+                    {
+                        "id": "attSwUWSEt63ANRtO",
+                        "url": "https://dl.airtable.com/.attachments/a7e4a6e7286a004721006b13e3975706/e0c1c853/ScreenShot2019-07-06at4.22.49PM.png",
+                        "filename": "Screen Shot 2019-07-06 at 4.22.49 PM.png",
+                        "size": 540543,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/04eac0ff4e2702e6a5278a3a2e827f64/8454a781",
+                                "width": 67,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/ad4eb11be23916f7c8199eafac084db4/b62409ef",
+                                "width": 632,
+                                "height": 338
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/309d14cd4610543d712041e622cfc0f2/3ffb9291",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "location": "Berkeley, CA, USA",
+                "review": "approved",
+                "created_on": "2019-06-24T06:22:56.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec8aMvHIHXCDJvs7",
+            "_rawJson": {
+                "id": "rec8aMvHIHXCDJvs7",
+                "fields": {
+                    "title": "Visual Vocal",
+                    "crunchbase": "https://www.crunchbase.com/organization/visual-vocal",
+                    "description": "AR/VR superpowers for the building industry",
+                    "funding": "Venture",
+                    "image": "logos/visualvocal.png",
+                    "website": "https://visualvocal.com/",
+                    "tags": [
+                        "vr",
+                        "ar"
+                    ],
+                    "industries": [
+                        "construction"
+                    ],
+                    "location": "Seattle, WA, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "Visual Vocal",
+                "crunchbase": "https://www.crunchbase.com/organization/visual-vocal",
+                "description": "AR/VR superpowers for the building industry",
+                "funding": "Venture",
+                "image": "logos/visualvocal.png",
+                "website": "https://visualvocal.com/",
+                "tags": [
+                    "vr",
+                    "ar"
+                ],
+                "industries": [
+                    "construction"
+                ],
+                "location": "Seattle, WA, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        },
+        {
+            "_table": {
+                "_base": {
+                    "_airtable": {
+                        "requestTimeout": 300000
+                    },
+                    "_id": "appNtnZ99fkL1cByn"
+                },
+                "id": null,
+                "name": "entries"
+            },
+            "id": "rec8g0UhUtd8e0jap",
+            "_rawJson": {
+                "id": "rec8g0UhUtd8e0jap",
+                "fields": {
+                    "title": "WeWork",
+                    "crunchbase": "https://www.crunchbase.com/organization/wework",
+                    "description": "The We Company is a platform for creators that transforms buildings into dynamic environments for creativity, focus, and collaboration.",
+                    "funding": "Late Stage Venture",
+                    "image": "logos/wework.png",
+                    "website": "https://www.wework.com/",
+                    "tags": [
+                        "documentation",
+                        "web app"
+                    ],
+                    "industries": [
+                        "architecture"
+                    ],
+                    "location": "New York, NY, USA",
+                    "review": "approved",
+                    "created_on": "2019-06-05T19:17:34.000Z"
+                },
+                "createdTime": "2019-06-05T19:17:34.000Z"
+            },
+            "fields": {
+                "title": "WeWork",
+                "crunchbase": "https://www.crunchbase.com/organization/wework",
+                "description": "The We Company is a platform for creators that transforms buildings into dynamic environments for creativity, focus, and collaboration.",
+                "funding": "Late Stage Venture",
+                "image": "logos/wework.png",
+                "website": "https://www.wework.com/",
+                "tags": [
+                    "documentation",
+                    "web app"
+                ],
+                "industries": [
+                    "architecture"
+                ],
+                "location": "New York, NY, USA",
+                "review": "approved",
+                "created_on": "2019-06-05T19:17:34.000Z"
+            }
+        }
+    ]
+}
