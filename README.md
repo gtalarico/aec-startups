@@ -15,24 +15,22 @@ To add a new entry just fill out [this form ](https://airtable.com/shrLpxcEdauXQ
 Once the entry is approved it will be automatically published to the website
 
 
-
 # Development
 
-Setup
+### Setup
 
 ```bash
 $ yarn install
 ```
 
-Dev server
+### Dev server
 
 ```bash
 $ yarn serve
-# from another tab
-$ yarn serve:lambda
 ```
 
-Environment variable with `AIRTABLE_API_KEY` that can access the base must be available
+This command the Vue app and a local lambda for development. It expects `AIRTABLE_API_KEY` and `AIRTABLE_API_URL` environment variables to be set. If these variables are missing, a mock response is returned (see `lambda/mockdata.json`)
+
 
 # License
 MIT
