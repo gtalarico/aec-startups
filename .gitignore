@@ -4,6 +4,7 @@ dist
 build-lambda
 
 # local env files
+.env
 .env.local
 .env.*.local
 
