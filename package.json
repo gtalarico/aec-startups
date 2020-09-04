@@ -12,7 +12,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "airtable": "^0.6.0",
+    "airtable": "^0.7.2",
     "axios": "^0.19.0",
     "bootstrap-vue": "^2.0.0-rc.22",
     "core-js": "^2.6.5",
