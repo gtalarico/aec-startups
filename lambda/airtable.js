@@ -26,7 +26,8 @@ exports.handler = function(event, context, callback) {
   const allRecords = []
   base('entries')
     .select({
-      maxRecords: 100,
+      // This caps total records to 100, not just each request
+      // maxRecords: 100,
       view: 'all'
     })
     .eachPage(
@@ -40,6 +41,7 @@ exports.handler = function(event, context, callback) {
         if (err) {
           callback(err)
         } else {
+          console.log(allRecords.length)
           const body = JSON.stringify({ records: allRecords })
           const response = {
             statusCode: 200,
