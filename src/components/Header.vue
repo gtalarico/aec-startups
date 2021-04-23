@@ -3,7 +3,7 @@
     class="container-fluid pb-3 d-flex flex-column justify-content-between align-items-baseline"
   >
     <div id="redirect-banner">
-      We are moving! Checkout out our new work at
+      Checkout out our new project at:
       <a href="https://aec.works">
       aec.works
       </a>
